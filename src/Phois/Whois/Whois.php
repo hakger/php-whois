@@ -17,7 +17,7 @@ class Whois
     /**
      * @param string $domain full domain name (without trailing dot)
      */
-    public function __construct($domain)
+    public function __construct($domain, $proxy = false)
     {
         $this->domain = $domain;
         // check $domain syntax and split full domain name on subdomain and TLDs
@@ -27,6 +27,9 @@ class Whois
         ) {
             $this->subDomain = $matches[1];
             $this->TLDs = $matches[2];
+            if ($proxy) {
+                $this->proxy = $proxy;
+            }
         } else
             throw new \InvalidArgumentException("Invalid $domain syntax");
         // setup whois servers array from json file
@@ -62,7 +65,7 @@ class Whois
             // If TLDs have been found
             if ($whois_server != '') {
 
-                // if whois server serve replay over HTTP protocol instead of WHOIS protocol
+                // if whois server serve reply over HTTP protocol instead of WHOIS protocol
                 if (preg_match("/^https?:\/\//i", $whois_server)) {
 
                     // curl session to get whois reposnse
@@ -74,6 +77,10 @@ class Whois
                     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
                     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
                     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+                    if ($proxy) {
+                        curl_setopt($ch, CURLOPT_PROXY, $proxy['ip']);
+                        curl_setopt($ch, CURLOPT_PROXYPORT, $proxy['port']);
+                    }
 
                     $data = curl_exec($ch);
 
@@ -145,7 +152,7 @@ class Whois
                 return "No whois server for this tld in list!";
             }
         } else {
-            return "Domainname isn't valid!";
+            return "Domain name isn't valid!";
         }
     }
 
@@ -195,32 +202,44 @@ class Whois
         $whois_string2 = @preg_replace('/' . $this->domain . '/', '', $whois_string);
         $whois_string = @preg_replace("/\s+/", ' ', $whois_string);
 
+		$return = true;
+
+		if (is_array($not_found_strings)) {
+			foreach ($not_found_strings as $not_found_string) {
         $array = explode (":", $not_found_string);
         if ($array[0] == "MAXCHARS") {
             if (strlen($whois_string2) <= $array[1]) {
-                return true;
+						$return = true;
             } else {
-                return false;
+						$return = false;
+					}
+				} else if ($array[0] == "NEGATION") {
+					if (preg_match("/" . $array[1] . "/i", $whois_string)) {
+						$return = false;
+					} else {
+						$return = true;
             }
         } else {
             if (preg_match("/" . $not_found_string . "/i", $whois_string)) {
-                return true;
+						$return &= true;
             } else {
-                return false;
+						$return &= false;
             }
         }
+			}
+		}
+		return $return;
     }
 
     public function isValid()
     {
-        $whois_server = $this->getWhoisServer();
         if (
-            isset($whois_server[0])
-            && strlen($whois_server[0]) > 6
+            isset($this->servers[$this->TLDs][0])
+            && strlen($this->servers[$this->TLDs][0]) > 6
         ) {
             $tmp_domain = strtolower($this->subDomain);
             if (
-                preg_match("/^[a-z0-9\-]+$/", $tmp_domain)
+                preg_match("/^[a-z0-9\-]{3,}$/", $tmp_domain)
                 && !preg_match("/^-|-$/", $tmp_domain) //&& !preg_match("/--/", $tmp_domain)
             ) {
                 return true;
