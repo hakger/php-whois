@@ -229,4 +229,8 @@ class Whois
 
         return false;
     }
+    
+    public function getServers() {
+        return $this->servers;
+    }
 }
