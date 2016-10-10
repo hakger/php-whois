@@ -1,10 +1,16 @@
 {
-    "name": "phois/whois",
-    "description": "Whois client.",
-    "keywords": ["whois"],
-    "version": "1.0.0",
+    "name": "hakger/php-whois",
+    "description": "HAKGER PHP-Whois client.",
+    "type": "library",
+    "keywords": ["whois", "php-whois", "whois client"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Hubert Kowalski",
+            "email": "h.kowalski@hakger.pl",
+            "homepage": "https://hakger.pl",
+            "role": "Developer"
+        },
         {
             "name": "David Rivera",
             "email": "David.R.Rivera193@gmail.com",
@@ -12,6 +18,12 @@
             "role": "Systems Developer"
         }
     ],
+    "support": {
+        "issues": "https://phabricator.hakgersoft.pl"
+    },
+    "replace": {
+        "phois/whois": "*"
+    },
     "require": {
         "php": ">=5.3.2",
         "ext-curl": "*"
