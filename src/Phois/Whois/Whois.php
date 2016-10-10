@@ -11,7 +11,7 @@ class Whois
     private $subDomain;
 
     private $servers;
-    
+    private $whoisserver;
     private $whoisInfo; 
 
     /**
@@ -19,7 +19,7 @@ class Whois
      */
     public function __construct($domain)
     {
-        $this->domain = strtolower($domain);
+        $this->domain = $domain;
         // check $domain syntax and split full domain name on subdomain and TLDs
         if (
             preg_match('/^([\p{L}\d\-]+)\.((?:[\p{L}\-]+\.?)+)$/ui', $this->domain, $matches)
@@ -31,11 +31,24 @@ class Whois
             throw new \InvalidArgumentException("Invalid $domain syntax");
         // setup whois servers array from json file
         $this->servers = json_decode(file_get_contents( __DIR__.'/whois.servers.json' ), true);
-        
         if (!$this->isValid())
         	throw new \InvalidArgumentException("Domain name isn't valid!");
     }
+
+    public function setWhoisServer($hostname, $availiable)
+    {
+        $this->whoisserver = array($hostname, $avaiable);
+    }
     
+    public function getWhoisServer() 
+    {
+        if ( $this->whoisserver ) {
+            return $this->whoisserver;
+        }
+        return $this->servers[$this->TLDs];
+    }
+
+
     /**
      * @param string, domain whois information
      */
@@ -43,9 +56,8 @@ class Whois
     {
         if ($this->whoisInfo != '')
             return $this->whoisInfo;
-
         if ($this->isValid()) {
-            $whois_server = $this->servers[$this->TLDs][0];
+            $whois_server = $this->getWhoisServer();
 
             // If TLDs have been found
             if ($whois_server != '') {
@@ -133,7 +145,7 @@ class Whois
                 return "No whois server for this tld in list!";
             }
         } else {
-            return "Domain name isn't valid!";
+            return "Domainname isn't valid!";
         }
     }
 
@@ -165,14 +177,14 @@ class Whois
     {
         return $this->subDomain;
     }
-    
+
 	/**
      * @return boolean, true for domain avaliable, false for domain registered
      */
     public function isAvailable()
     {
         if ($this->whoisInfo == '')
-            $whois_string = $this->info();
+        $whois_string = $this->info();
         else 
         	$whois_string = $this->whoisInfo;
         $not_found_string = '';
@@ -201,9 +213,10 @@ class Whois
 
     public function isValid()
     {
+        $whois_server = $this->getWhoisServer();
         if (
-            isset($this->servers[$this->TLDs][0])
-            && strlen($this->servers[$this->TLDs][0]) > 6
+            isset($whois_server[0])
+            && strlen($whois_server[0]) > 6
         ) {
             $tmp_domain = strtolower($this->subDomain);
             if (
