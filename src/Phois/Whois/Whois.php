@@ -43,15 +43,14 @@ class Whois
         } else {
             throw new \InvalidArgumentException("Invalid $domain syntax");
         }
-        if (!$this->isValid()) {
-            throw new \InvalidArgumentException("Domain name isn't valid!");
-        }
         // setup whois servers array from json file
         $this->servers = json_decode(
             file_get_contents(__DIR__ . '/whois.servers.json'),
             true
         );
-        
+        if (!$this->isValid()) {
+            throw new \InvalidArgumentException("Domain name isn't valid!");
+        }   
     }
 
     public function setWhoisServer($hostname, $availiable)
