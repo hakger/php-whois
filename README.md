@@ -5,7 +5,6 @@ PHP class to retrieve WHOIS information.
 ## Example of usage
 
 ```php
-
 <?php
 
 $sld = 'reg.ru';
@@ -21,13 +20,11 @@ if ($domain->isAvailable()) {
 } else {
     echo "Domain is registered\n";
 }
-
 ```
 
 A more complete example:
 
 ```php
-
 <?php
 require_once __DIR__.'/../vendor/autoload.php';
 
@@ -44,5 +41,4 @@ if ($domain->isAvailable()) {
 } else {
 	echo "Domain is registered\n";
 }
-
 ```
