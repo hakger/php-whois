@@ -291,6 +291,10 @@
         "whois1.nic.bi",
         "Domain Status: No Object Found"
     ],
+    "bid": [
+        "whois.nic.bid",
+        "No Domain exists for the search"
+    ],
     "bike": [
         "whois.donuts.co",
         "Domain not found"

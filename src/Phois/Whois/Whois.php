@@ -26,11 +26,11 @@ class Whois
         $matches = array();
         if (
             preg_match(
-                '/^([\p{L}\d\-]+)\.((?:[\p{L}\-]+\.?)+)$/ui', 
+                '/^[=]?([\p{L}\d\-]+)\.((?:[\p{L}\-]+\.?)+)$/ui', 
                 $this->domain,
                 $matches
             ) || preg_match(
-                '/^(xn\-\-[\p{L}\d\-]+)\.(xn\-\-(?:[a-z\d-]+\.?1?)+)$/ui',
+                '/^[=]?(xn\-\-[\p{L}\d\-]+)\.(xn\-\-(?:[a-z\d-]+\.?1?)+)$/ui',
                 $this->domain,
                 $matches
             )
@@ -84,7 +84,7 @@ class Whois
                 if (preg_match("/^https?:\/\//i", $whois_server)) {
                     // curl session to get whois reposnse
                     $ch = curl_init();
-                    $url = $whois_server . $this->subDomain . '.' . $this->TLDs;
+                    $url = $whois_server . $this->domain;
                     curl_setopt($ch, CURLOPT_URL, $url);
                     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 0);
                     curl_setopt($ch, CURLOPT_TIMEOUT, 60);
@@ -115,7 +115,7 @@ class Whois
                     stream_set_timeout($fp, $this->socTimeout);
                     $info = stream_get_meta_data($fp);
 
-                    $dom = $this->subDomain . '.' . $this->TLDs;
+                    $dom = $this->domain;
                     fputs($fp, "$dom\r\n");
 
                     // Getting string
@@ -145,7 +145,7 @@ class Whois
                         stream_set_timeout($fp, $this->socTimeout);
                         $info = stream_get_meta_data($fp);
 
-                        $dom = $this->subDomain . '.' . $this->TLDs;
+                        //$dom = $this->subDomain . '.' . $this->TLDs;
                         fputs($fp, "$dom\r\n");
 
                         // Getting string
