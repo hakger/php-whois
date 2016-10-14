@@ -106,11 +106,11 @@ class Whois
      * Set custom whois server for all calls.
      *
      * @param string $hostname   WHOIS server hostname
-     * @param string $availiable Pattern to check domain availability
+     * @param string $available Pattern to check domain availability
      */
-    public function setWhoisServer($hostname, $availiable)
+    public function setWhoisServer($hostname, $available)
     {
-        $this->whoisserver = array($hostname, $availiable);
+        $this->whoisserver = array($hostname, $available);
     }
 
     /**
@@ -147,7 +147,7 @@ class Whois
             return 'No whois server for this tld in list!';
         }
             // if whois server serve reply over HTTP protocol instead of WHOIS protocol
-        if (preg_match("/^https?:\/\//i", $whois_server)) {
+        if (preg_match('/^https?:\/\//i', $whois_server)) {
             // curl session to get whois reposnse
             $curlHandle = curl_init();
             $url = $whois_server.$this->domain;
@@ -196,7 +196,7 @@ class Whois
             $info = stream_get_meta_data($socket);
 
             $dom = $this->domain;
-            fputs($socket, "$dom\r\n");
+            fwrite($socket, "$dom\r\n");
 
             // Getting string
             $string = '';
@@ -230,8 +230,8 @@ class Whois
                 stream_set_timeout($socket, $this->socTimeout);
                 $info = stream_get_meta_data($socket);
 
-                //$dom = $this->subDomain . '.' . $this->TLDs;
-                fputs($socket, "$dom\r\n");
+                // $dom = $this->subDomain . '.' . $this->TLDs;
+                fwrite($socket, "$dom\r\n");
 
                 // Getting string
                 $string = '';
@@ -307,7 +307,7 @@ class Whois
     /**
      * Check whether passed domain is available,
      * based on response from whois server.
-     * @return bool true for domain avaliable, false for domain registered
+     * @return bool true for domain available, false for domain registered
      */
     public function isAvailable()
     {
@@ -326,7 +326,7 @@ class Whois
             '',
             $whois_string
         );
-        $whois_string = \preg_replace("/\s+/", ' ', $whois_string);
+        $whois_string = \preg_replace('/\s+/', ' ', $whois_string);
 
         $array = explode(':', $not_found_string);
         if ($array[0] == 'MAXCHARS') {
@@ -346,7 +346,7 @@ class Whois
             && strlen($this->servers[$this->TLDs][0]) > 6
         ) {
             $tmp_domain = mb_strtolower($this->subDomain);
-            if (preg_match("/^[=]?[a-z0-9\-]+$/", $tmp_domain)
+            if (preg_match('/^[=]?[a-z0-9\-]+$/', $tmp_domain)
                 && !preg_match('/^-|-$/', $tmp_domain)
                 // && !preg_match("/--/", $tmp_domain)
             ) {

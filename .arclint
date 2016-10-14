@@ -1,0 +1,86 @@
+{
+  "exclude": "(^tests/)",
+  "linters": {
+    "chmod": {
+      "type": "chmod"
+    },
+    "filename": {
+      "type": "filename"
+    },
+    "generated": {
+      "type": "generated"
+    },
+    "json": {
+      "type": "json",
+      "include": [
+        "(^\\.arcconfig$)",
+        "(^\\.arclint$)",
+        "(\\.json$)"
+      ]
+    },
+    "less": {
+      "type": "lessc",
+      "include": [
+        "(\\.less$)"
+      ]
+    },
+    "merge-conflict": {
+      "type": "merge-conflict"
+    },
+    "php": {
+      "type": "php",
+      "include": [
+        "(\\.php$)"
+      ]
+    },
+    "php-cs": {
+      "type": "phpcs",
+      "phpcs.standard": "PSR2",
+      "flags" : [
+        "-n",
+        "-s"
+      ],
+      "include": [
+        "(\\.php$)"
+      ]
+    },
+    "spelling": {
+      "type": "spelling"
+    },
+    "text": {
+      "type": "text",
+      "severity": {
+        "3": "disabled",
+        "5": "disabled"
+      }
+    },
+    "xml": {
+      "type": "xml",
+      "include": [
+        "(\\.xml$)"
+      ]
+    },
+    "xhpast": {
+      "type": "xhpast",
+      "include": "(\\.php$)",
+      "exclude": [
+        "(^tests/)"
+      ],
+      "severity": {
+        "9" : "disabled",
+        "16": "advice",
+        "24": "disabled",
+        "34": "error",
+        "37": "disabled",
+        "38": "disabled",
+        "42": "disabled",
+        "44": "disabled"
+      },
+      "xhpast.blacklisted.function": {
+        "eval": "The eval() is evil."
+      },
+      "xhpast.php-version": "5.3.8",
+      "xhpast.php-version.windows": "5.3.8"
+    }
+  }
+}
