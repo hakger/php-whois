@@ -1,599 +1,963 @@
 {
+    "aarp": [
+        "whois.nic.aarp",
+        "\\Qno match\\E"
+    ],
+    "abbott": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "abbvie": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
     "abogado": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "abudhabi": [
+        "whois.nic.abudhabi",
+        "\\Qno match\\E"
     ],
     "ac": [
         "whois.nic.ac",
-        "Available"
+        "\\QAvailable\\E"
     ],
     "ac.ac": [
         "whois.nic.ac",
-        "Available"
+        "\\QAvailable\\E"
     ],
     "ac.at": [
         "whois.nic.at",
-        "nothing found"
+        "\\Qnothing found\\E"
     ],
     "ac.be": [
         "whois.dns.be",
-        "No such domain"
+        "\\QNo such domain\\E"
     ],
     "ac.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "ac.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "ac.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "ac.ir": [
+        "whois.nic.ir",
+        "no entries found"
     ],
     "ac.jp": [
-        "whois.nic.ad.jp",
-        "No match!!"
+        "whois.jprs.jp",
+        "\\Qno match\\E"
     ],
     "ac.ke": [
         "whois.kenic.or.ke",
-        "Not Registered"
+        "\\QNot Registered\\E"
     ],
     "ac.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
     ],
     "ac.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "ac.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "ac.uk": [
         "whois.ja.net",
-        "Sorry - no"
+        "\\QNo such domain\\E"
     ],
     "ac.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "academy": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "accountant": [
+        "whois.nic.accountant",
+        "\\Qavailable\\E"
     ],
     "accountants": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "aco": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "active": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "actor": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "ad": [
         "whois.ripe.net",
-        "no entries found"
+        "\\Qno entries found\\E"
+    ],
+    "adac": [
+        "whois.nic.adac",
+        "\\Qno match\\E"
     ],
     "adm.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "ads": [
+        "domain-registry-whois.l.google.com",
+        "\\QDomain not found.\\E"
     ],
     "adult": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "adv.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "ae": [
-        "whois-check.aeda.net.ae",
-        "MAXCHARS:10"
+        "whois.aeda.net.ae",
+        "\\Qno data found\\E"
+    ],
+    "aeg": [
+        "whois.nic.aeg",
+        "\\Qno match\\E"
     ],
     "aero": [
         "whois.aero",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "af": [
-        "whois.netnames.net",
-        "No Match"
+        "whois.nic.af",
+        "\\QNo Object Found\\E"
+    ],
+    "afl": [
+        "whois.nic.afl",
+        "\\Qavailable\\E"
+    ],
+    "africa.com": [
+        "srs-whois.dns.net.za",
+        "\\QNo information was found\\E"
     ],
     "ag": [
         "whois.nic.ag",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "agakhan": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "agency": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "agro.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "ah.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "aid.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "airbus": [
+        "whois.nic.airbus",
+        "\\Qno match\\E"
     ],
     "airforce": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "airtel": [
+        "whois.nic.airtel",
+        "\\Qno match\\E"
+    ],
+    "akdn": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "allfinanz": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
+    ],
+    "ally": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "alsace": [
         "whois-alsace.nic.fr",
-        "Requested Domain cannot be found"
+        "\\Qobject does not exist\\E"
+    ],
+    "alstom": [
+        "whois.nic.alstom",
+        "\\Qno match\\E"
     ],
     "alt.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "am": [
         "whois.nic.am",
-        "No match"
+        "\\Qno match\\E"
     ],
     "am.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "amsterdam": [
+        "whois.nic.amsterdam",
+        "\\QStatus: free\\E"
     ],
     "android": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "anquan": [
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
+    ],
+    "anz": [
+        "whois.nic.anz",
+        "\\QNo Data Found\\E"
     ],
     "apartments": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "app": [
+        "whois.nic.google",
+        "\\Qnot found\\E"
+    ],
+    "apple": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "aquarelle": [
         "whois-aquarelle.nic.fr",
-        "Requested Domain cannot be found"
+        "\\Qobject does not exist\\E"
     ],
     "archi": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "army": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "arpa": [
+        "whois.iana.org",
+        "\\Qbut this server does not have\\E"
     ],
     "arq.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "art": [
+        "whois.centralnic.com",
+        "\\Qnot found\\E"
     ],
     "art.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "arte": [
+        "whois.nic.arte",
+        "\\Qno match\\E"
     ],
     "arts.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "as": [
         "whois.nic.as",
-        "Domain Not Found"
+        "\\Qnot found\\E"
     ],
     "asia": [
         "whois.nic.asia",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "asn.au": [
         "whois.aunic.net",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "asso.fr": [
         "whois.nic.fr",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "asso.mc": [
         "whois.ripe.net",
-        "no entries found"
+        "\\Qno entries found\\E"
     ],
     "associates": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "at": [
         "whois.nic.at",
-        "nothing found"
+        "\\Qnothing found\\E"
     ],
     "atm.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "attorney": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "au": [
-        "whois.audns.net.au",
-        "No Data Found"
+        "whois.aunic.net",
+        "\\QNo Data Found\\E"
     ],
     "auction": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "audi": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "audio": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
+    ],
+    "augustow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "auto": [
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
     ],
     "auto.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "autos": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "avianca": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "aw": [
         "whois.nic.aw",
-        "is free"
+        "\\Qis free\\E"
     ],
     "ax": [
         "whois.ax",
-        "No records matching"
+        "\\QNo records matching\\E"
+    ],
+    "babia-gora.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "baidu": [
+        "whois.ngtld.cn",
+        "\\Qno match\\E"
     ],
     "band": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "bank": [
         "whois.nic.bank",
-        "No match for"
+        "\\Qno match\\E"
     ],
     "bar": [
         "whois.nic.bar",
         "DOMAIN NOT FOUND"
     ],
+    "barcelona": [
+        "whois.nic.barcelona",
+        "\\Qno match\\E"
+    ],
     "barclaycard": [
         "whois.nic.barclaycard",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "barclays": [
         "whois.nic.barclays",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "barefoot": [
+        "whois.nic.barefoot",
+        "\\Qno match\\E"
     ],
     "bargains": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "bauhaus": [
+        "whois.nic.bauhaus",
+        "\\Qno match\\E"
     ],
     "bayern": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "bbc": [
+        "whois.nic.bbc",
+        "\\Qavailable\\E"
     ],
     "bbs.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
+    ],
+    "bbva": [
+        "whois.nic.bbva",
+        "\\Qno match\\E"
+    ],
+    "bcg": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "bcn": [
+        "whois.nic.bcn",
+        "\\Qno match\\E"
     ],
     "be": [
         "whois.dns.be",
-        "Status: AVAILABLE"
+        "\\QNo such domain\\E"
+    ],
+    "beats": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "bedzin.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "beer": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "bentley": [
+        "whois.nic.bentley",
+        "\\Qavailable\\E"
     ],
     "berlin": [
         "whois.nic.berlin",
-        "% No match"
+        "\\Qobject does not exist\\E"
+    ],
+    "beskidy.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "best": [
         "whois.nic.best",
-        "Not found:"
+        "\\Qavailable\\E"
+    ],
+    "bet": [
+        "whois.afilias.net",
+        "\\QNOT FOUND\\E"
     ],
     "bg": [
         "whois.register.bg",
-        "does not exist in database"
+        "\\Qdoes not exist in database\\E"
     ],
     "bi": [
         "whois1.nic.bi",
-        "Domain Status: No Object Found"
+        "\\QDomain Status: No Object Found\\E"
+    ],
+    "bialowieza.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "bialystok.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "bid": [
         "whois.nic.bid",
-        "No Domain exists for the search"
+        "\\Qavailable\\E"
+    ],
+    "bielawa.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "bieszczady.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "bike": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "bingo": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "bio": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "bio.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "biz": [
         "whois.nic.biz",
-        "Not found"
+        "\\Qnot found\\E"
     ],
     "biz.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "bj": [
         "whois.nic.bj",
-        "No records matching"
+        "\\QNo Object Found\\E"
     ],
     "bj.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "black": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "blackfriday": [
         "whois.uniregistry.net",
-        "is available"
+        "\\Qavailable\\E"
+    ],
+    "blanco": [
+        "whois.nic.blanco",
+        "\\Qno match\\E"
+    ],
+    "blog": [
+        "whois.nic.blog",
+        "\\Qavailable\\E"
     ],
     "blue": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "bms": [
+        "whois.nic.bms",
+        "\\Qno match\\E"
     ],
     "bmw": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
+    ],
+    "bn": [
+        "whois.bnnic.bn",
+        "\\Qnot found\\E"
+    ],
+    "bnl": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "bnpparibas": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "boats": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "boehringer": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "boleslawiec.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "bom": [
+        "whois.gtlds.nic.br",
+        "\\Qobject does not exist\\E"
+    ],
+    "bond": [
+        "whois.nic.bond",
+        "\\Qno match\\E"
     ],
     "boo": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "boots": [
+        "whois.nic.boots",
+        "\\Qavailable\\E"
+    ],
+    "bosch": [
+        "whois.nic.bosch",
+        "\\Qno match\\E"
+    ],
+    "bostik": [
+        "whois-bostik.nic.fr",
+        "\\Qobject does not exist\\E"
     ],
     "boutique": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "br": [
-        "whois.nic.br",
-        "No match for"
+        "whois.registro.br",
+        "\\Qno match for\\E"
     ],
     "br.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "bradesco": [
+        "whois-cl01.mm-registry.com",
+        "\\Qavailable\\E"
+    ],
+    "bridgestone": [
+        "whois.nic.bridgestone",
+        "\\QNo Data Found\\E"
+    ],
+    "broadway": [
+        "whois-cl01.mm-registry.com",
+        "\\Qavailable\\E"
+    ],
+    "broker": [
+        "whois.nic.broker",
+        "\\Qno match\\E"
+    ],
+    "brother": [
+        "whois.nic.brother",
+        "\\Qnot found\\E"
     ],
     "brussels": [
         "whois.nic.brussels",
-        "is still available"
+        "\\Qavailable\\E"
     ],
     "budapest": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "bugatti": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "build": [
-        "whois.nic.build ",
-        "No Data Found"
+        "whois.nic.build",
+        "\\QNo Data Found\\E"
     ],
     "builders": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "business": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "buy": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "buzz": [
+        "whois.nic.buzz",
+        "\\Qavailable\\E"
     ],
     "bw": [
         "whois.nic.net.bw",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "by": [
-        "whois.cctld.by",
-        "no entries found"
+        "whois.ripe.net",
+        "\\Qno entries found\\E"
+    ],
+    "bydgoszcz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "bytom.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "bz": [
         "whois.afilias-grs.info.",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "bzh": [
-        "whois-bzh.nic.fr",
-        "Requested Domain cannot be found"
+        "whois.nic.bzh",
+        "\\Qobject does not exist\\E"
     ],
     "ca": [
         "whois.cira.ca",
-        "Domain status: available"
+        "\\QDomain status:         available\\E"
     ],
     "cab": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "cafe": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "cal": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "cam": [
+        "whois.ksregistry.net",
+        "\\Qobject does not exist\\E"
     ],
     "camera": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "camp": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "cancerresearch": [
         "whois.nic.cancerresearch",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "canon": [
         "whois.nic.canon",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "capetown": [
         "capetown-whois.registry.net.za",
-        "Available"
+        "\\Qavailable\\E"
     ],
     "capital": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "car": [
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
     ],
     "cards": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "care": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "career": [
         "whois.nic.career",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "careers": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "cars": [
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
     ],
     "casa": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "cash": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "casino": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "cat": [
-        "whois.cat",
-        "NOT FOUND"
+        "whois.nic.cat",
+        "\\Qno match\\E"
     ],
     "catering": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "cba": [
+        "whois.nic.cba",
+        "\\QNo Data Found\\E"
     ],
     "cc": [
         "whois.nic.cc",
-        "No match"
+        "\\Qno match\\E"
     ],
     "cd": [
-        "whois.cd",
-        "No match"
+        "whois.nic.cd",
+        "\\QNo Object Found\\E"
+    ],
+    "ceb": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "center": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "ceo": [
         "whois.nic.ceo",
-        "Not found:"
+        "\\Qnot found\\E"
     ],
     "cern": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "cf": [
         "whois.dot.cf",
-        "Invalid query or domain name not known"
+        "\\Qnot known\\E"
+    ],
+    "cfa": [
+        "whois.nic.cfa",
+        "\\Qno match\\E"
+    ],
+    "cfd": [
+        "whois.nic.cfd",
+        "\\Qno match\\E"
     ],
     "ch": [
         "whois.nic.ch",
-        "not have an entry"
+        "\\Qnot have an entry\\E"
+    ],
+    "chanel": [
+        "whois.nic.chanel",
+        "\\Qno match\\E"
     ],
     "channel": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "chat": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "cheap": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "chintai": [
+        "whois.nic.chintai",
+        "\\Qavailable\\E"
     ],
     "christmas": [
         "whois.uniregistry.net",
-        "is available"
+        "\\Qavailable\\E"
     ],
     "chrome": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "church": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "ci": [
         "whois.nic.ci",
-        "not found"
+        "\\QNo Object Found\\E"
+    ],
+    "cieszyn.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "cipriani": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "city": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "cityeats": [
+        "whois.nic.cityeats",
+        "\\Qno match\\E"
     ],
     "cl": [
         "whois.nic.cl",
-        "no existe"
+        "\\Qno existe\\E"
     ],
     "claims": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "cleaning": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "click": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "clinic": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "clinique": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "clothing": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "cloud": [
+        "whois.nic.cloud",
+        "\\Qavailable\\E"
     ],
     "club": [
         "whois.nic.club",
-        "Not found:"
+        "\\Qavailable\\E"
+    ],
+    "clubmed": [
+        "whois.nic.clubmed",
+        "\\Qno match\\E"
+    ],
+    "cm": [
+        "whois.netcom.cm",
+        "\\QNo Object Found\\E"
     ],
     "cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "cn.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "cng.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "cnt.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "co": [
         "whois.nic.co",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "co.ac": [
         "whois.nic.ac",
-        "Available"
+        "\\QAvailable\\E"
     ],
     "co.at": [
         "whois.nic.at",
-        "nothing found"
+        "\\Qnothing found\\E"
     ],
     "co.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "co.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "co.ir": [
+        "whois.nic.ir",
+        "no entries found"
     ],
     "co.jp": [
         "whois.nic.ad.jp",
@@ -601,31 +965,31 @@
     ],
     "co.ke": [
         "whois.kenic.or.ke",
-        "Not Registered"
+        "\\QNot Registered\\E"
     ],
     "co.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
     ],
     "co.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "co.rs": [
         "whois.rnids.rs",
-        "%ERROR:103"
+        "\\Q%ERROR:103\\E"
     ],
     "co.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "co.uk": [
         "whois.nic.uk",
-        "No match"
+        "\\QNo match\\E"
     ],
     "co.ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "co.za": [
         "http:\/\/whois.registry.net.za\/whois\/whois.sh?Domain=",
@@ -633,55 +997,55 @@
     ],
     "coach": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "codes": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "coffee": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "college": [
         "whois.nic.college",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "cologne": [
         "whois-fe1.pdt.cologne.tango.knipp.de",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "com": [
-        "whois.crsnic.net",
-        "No match for"
+        "whois.verisign-grs.com",
+        "\\Qno match for\\E"
     ],
     "com.au": [
         "whois.aunic.net",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "com.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "com.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "com.co": [
         "whois.nic.co",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "com.de": [
         "whois.centralnic.com",
-        "Status: free"
+        "\\Qnot found\\E"
     ],
     "com.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "com.fr": [
         "whois.nic.fr",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "com.gr": [
         "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
@@ -693,19 +1057,19 @@
     ],
     "com.hk": [
         "whois.hkdnr.net.hk",
-        "The domain has not been registered"
+        "\\QThe domain has not been registered\\E"
     ],
     "com.mm": [
         "whois.nic.mm",
-        "No domains matched"
+        "\\QNo domains matched\\E"
     ],
     "com.mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
     ],
     "com.my": [
         "whois.mynic.net.my",
-        "does not exist"
+        "\\Qdoes not exist\\E"
     ],
     "com.ph": [
         "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
@@ -713,275 +1077,375 @@
     ],
     "com.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "com.pt": [
         "whois.dns.pt",
-        "no match"
+        "\\Qno match\\E"
     ],
     "com.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "com.ru": [
         "whois.ripn.net",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "com.sg": [
         "whois.nic.net.sg",
-        "Domain Not Found"
+        "\\QDomain Not Found\\E"
     ],
     "com.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "com.tw": [
         "whois.twnic.net",
-        "No Found"
+        "\\QNo Found\\E"
     ],
     "com.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "com.ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "commbank": [
+        "whois.nic.commbank",
+        "\\QNo Data Found\\E"
     ],
     "community": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "company": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "compare": [
+        "whois.nic.compare",
+        "\\Qavailable\\E"
     ],
     "computer": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "comsec": [
+        "whois.nic.comsec",
+        "\\Qno match\\E"
     ],
     "condos": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "construction": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "consulting": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "contractors": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "cooking": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "cookingchannel": [
+        "whois.nic.cookingchannel",
+        "\\Qno match\\E"
     ],
     "cool": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "coop": [
         "whois.nic.coop",
         "No domain records were found to match"
     ],
+    "corsica": [
+        "whois-corsica.nic.fr",
+        "\\Qobject does not exist\\E"
+    ],
     "country": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "coupons": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "courses": [
         "whois.aridnrs.net.au",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "cq.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "cr": [
+        "whois.nic.cr",
+        "\\Qavailable\\E"
     ],
     "credit": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "creditcard": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "creditunion": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "cricket": [
         "whois.nic.cricket",
-        "is available"
+        "\\Qavailable\\E"
     ],
     "cruises": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "csc": [
+        "whois.nic.csc",
+        "\\Qno match\\E"
     ],
     "cuisinella": [
         "whois.nic.cuisinella",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "cx": [
         "whois.nic.cx",
-        "No match for"
+        "\\QNo Object Found\\E"
     ],
     "cymru": [
         "whois.nic.cymru",
-        "This domain name has not been registered."
+        "\\Qavailable\\E"
     ],
     "cz": [
         "whois.nic.cz",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "czeladz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "czest.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "dabur": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "dad": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "dance": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "date": [
+        "whois.nic.date",
+        "\\Qavailable\\E"
     ],
     "dating": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "datsun": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "day": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "dclk": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "dds": [
+        "whois-dub.mm-registry.com",
+        "\\Qavailable\\E"
     ],
     "de": [
-        "whois.denic.de",
-        "Status: free"
+        "whois.nic.de",
+        "\\QStatus: free\\E"
     ],
     "deals": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "degree": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "delivery": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "deloitte": [
+        "whois.nic.deloitte",
+        "\\Qno match\\E"
     ],
     "democrat": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "dental": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "dentist": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "desi": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "design": [
         "whois.nic.design",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "dev": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "diamonds": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "diet": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "digital": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "direct": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "directory": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "discount": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "dk": [
         "whois.dk-hostmaster.dk",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "dlugoleka.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "dm": [
         "whois.nic.dm",
-        "not found..."
+        "\\Qnot found\\E"
     ],
     "dn.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "docs": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "dog": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "doha": [
+        "whois.nic.doha",
+        "\\Qavailable\\E"
     ],
     "domains": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "doosan": [
-        "whois.nic.doosan",
-        "No match for"
+        "whois.nic.xn--cg4bki",
+        "\\Qno match\\E"
+    ],
+    "dot": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "download": [
+        "whois.nic.download",
+        "\\Qavailable\\E"
+    ],
+    "drive": [
+        "whois.nic.google",
+        "\\Qnot found\\E"
+    ],
+    "dtv": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "dubai": [
+        "whois.nic.dubai",
+        "\\Qno match\\E"
+    ],
+    "dunlop": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "durban": [
         "durban-whois.registry.net.za",
-        "Available"
+        "\\Qavailable\\E"
     ],
     "dvag": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "dz": [
         "whois.nic.dz",
-        "NO OBJECT FOUND!"
+        "\\QNO OBJECT FOUND!\\E"
     ],
     "eat": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "ec": [
         "whois.nic.ec",
-        "Status: Not Registered"
+        "\\Qnot registered\\E"
     ],
     "ecn.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "eco.br": [
         "whois.nic.br",
         "No match for"
     ],
+    "edeka": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
     "edu": [
         "whois.internic.net",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "edu.au": [
         "whois.aunic.net",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "edu.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "edu.gr": [
         "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
@@ -993,91 +1457,107 @@
     ],
     "edu.hk": [
         "whois.hkdnr.net.hk",
-        "The domain has not been registered"
+        "\\QThe domain has not been registered\\E"
     ],
     "edu.mm": [
         "whois.nic.mm",
-        "No domains matched"
+        "\\QNo domains matched\\E"
     ],
     "edu.mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
     ],
     "edu.my": [
         "whois.mynic.net.my",
-        "does not exist"
+        "\\Qdoes not exist\\E"
     ],
     "edu.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "edu.pt": [
         "whois.dns.pt",
-        "no match"
+        "\\Qno match\\E"
     ],
     "edu.rs": [
         "whois.rnids.rs",
-        "%ERROR:103"
+        "\\Q%ERROR:103\\E"
     ],
     "edu.sg": [
         "whois.nic.net.sg",
-        "Domain Not Found"
+        "\\QDomain Not Found\\E"
     ],
     "edu.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "edu.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "education": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "ee": [
         "whois.tld.ee",
-        "% No entries found."
+        "\\Qnot found\\E"
+    ],
+    "elblag.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "elk.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "email": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "emerck": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "energy": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "eng.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "engineer": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "engineering": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "enterprises": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "epson": [
         "whois.aridnrs.net.au",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "equipment": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "ericsson": [
+        "whois.nic.ericsson",
+        "\\Qno match\\E"
     ],
     "ernet.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "erni": [
+        "whois.nic.erni",
+        "\\Qno match\\E"
     ],
     "es": [
         "http:\/\/whois.virtualname.es\/whois.php?domain=",
@@ -1085,251 +1565,351 @@
     ],
     "esp.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "esq": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "estate": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "etc.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "eti.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "eu": [
         "whois.eu",
-        "Status: AVAILABLE"
+        "\\Qavailable\\E"
     ],
     "eu.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "eu.lv": [
         "whois.biz",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "eurovision": [
         "whois.nic.eurovision",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "eus": [
         "whois.eus.coreregistry.net",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "events": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "everbank": [
+        "whois.nic.everbank",
+        "\\Qobject does not exist\\E"
     ],
     "exchange": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "expert": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "exposed": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "express": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "extraspace": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "fage": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "fail": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "fairwinds": [
+        "whois.nic.fairwinds",
+        "\\Qno match\\E"
+    ],
+    "faith": [
+        "whois.nic.faith",
+        "\\Qavailable\\E"
+    ],
+    "family": [
+        "whois.rightside.co",
+        "\\QDomain not found.\\E"
+    ],
+    "fan": [
+        "whois.nic.fan",
+        "\\Qnot found\\E"
     ],
     "fans": [
         "whois.nic.fans",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "farm": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "fashion": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "fedex": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "feedback": [
-        "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "whois.nic.feedback",
+        "\\Qnot found\\E"
     ],
     "fi": [
         "whois.ficora.fi",
-        "Domain not found"
+        "\\QDomain not found\\E"
+    ],
+    "film": [
+        "whois.nic.film",
+        "\\Qno match\\E"
     ],
     "fin.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
+    ],
+    "final": [
+        "whois.gtlds.nic.br",
+        "\\Qobject does not exist\\E"
     ],
     "finance": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "financial": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "firestone": [
+        "whois.nic.firestone",
+        "\\Qavailable\\E"
     ],
     "firm.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "firmdale": [
         "whois.nic.firmdale",
-        "Domain Not Found"
+        "\\Qnot found\\E"
     ],
     "fish": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "fishing": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "fit": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "fitness": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "fj": [
+        "whois.usp.ac.fj",
+        "\\Qnot found\\E"
     ],
     "flights": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "florist": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "flowers": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "flsmidth": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "fly": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "fm": [
         "whois.nic.fm",
-        "Not Registered"
+        "\\QNot Registered\\E"
     ],
     "fm.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "fo": [
-        "whois.nic.fo",
-        "no entries found"
+        "whois.ripe.net",
+        "\\Qno entries found\\E"
     ],
     "foo": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "foodnetwork": [
+        "whois.nic.foodnetwork",
+        "\\Qno match\\E"
     ],
     "football": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "forex": [
+        "whois.nic.forex",
+        "\\Qno match\\E"
     ],
     "forsale": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "forum": [
+        "whois.nic.forum",
+        "\\Qnot found\\E"
     ],
     "fot.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "foundation": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "fr": [
         "whois.nic.fr",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "fresenius": [
+        "whois.ksregistry.net",
+        "\\Qobject does not exist\\E"
     ],
     "frl": [
         "whois.nic.frl",
-        "is still available"
+        "\\Qno match for\\E"
     ],
     "frogans": [
         "whois-frogans.nic.fr",
-        "Requested Domain cannot be found"
+        "\\Qobject does not exist\\E"
+    ],
+    "frontdoor": [
+        "whois.nic.frontdoor",
+        "\\Qno match\\E"
     ],
     "fst.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "fund": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "furniture": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "futbol": [
         "whois.unitedtld.com",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "fyi": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "g12.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "gal": [
         "whois.gal.coreregistry.net",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "gallery": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "gallo": [
+        "whois.nic.gallo",
+        "\\Qno match\\E"
+    ],
+    "gallup": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "game": [
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
+    ],
+    "games": [
+        "whois.rightside.co",
+        "\\QDomain not found.\\E"
     ],
     "garden": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "gb.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "gb.net": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "gbiz": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "gd": [
         "whois.nic.gd",
-        "not found..."
+        "\\Qnot found\\E"
     ],
     "gd.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "gdn": [
-        "whois.gdnregistry.com",
-        "Domain Not Found"
+        "whois.nic.gdn",
+        "\\Qnot found\\E"
+    ],
+    "gea": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "geek.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "gen.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "gent": [
         "whois.nic.gent",
-        "is still available"
+        "\\Qno match for\\E"
+    ],
+    "genting": [
+        "whois.nic.genting",
+        "\\Qno match\\E"
     ],
     "gf": [
         "whois.nplus.gf",
@@ -1337,75 +1917,91 @@
     ],
     "gg": [
         "whois.gg",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "ggee": [
         "whois.nic.ggee",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "gi": [
         "whois2.afilias-grs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "gift": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "gifts": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "gives": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "giving": [
+        "whois.nic.giving",
+        "\\QNo Data Found\\E"
     ],
     "gl": [
         "whois.nic.gl",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "glass": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "gle": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "global": [
         "whois.nic.global",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "globo": [
         "whois.gtlds.nic.br",
-        "No match for"
+        "\\Qobject does not exist\\E"
+    ],
+    "glogow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "gmail": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "gmbh": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "gmina.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "gmx": [
         "whois-fe1.gmx.tango.knipp.de",
-        "% no matching objects found"
+        "\\Qno match\\E"
+    ],
+    "gniezno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "go.id": [
         "whois.idnic.net.id",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "go.jp": [
-        "whois.nic.ad.jp",
-        "No match!!"
+        "whois.jprs.jp",
+        "\\Qno match\\E"
     ],
     "go.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
     ],
     "go.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "gob.gt": [
         "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
@@ -1413,43 +2009,59 @@
     ],
     "gob.mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
+    ],
+    "gold": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "goldpoint": [
         "whois.nic.goldpoint",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "golf": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "goo": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "goodyear": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "goog": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "google": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "gop": [
         "whois-cl01.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "gorlice.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "gov": [
         "whois.nic.gov",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "gov.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "gov.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "gov.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "gov.gr": [
         "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
@@ -1457,263 +2069,359 @@
     ],
     "gov.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "gov.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "gov.ir": [
+        "whois.nic.ir",
+        "no entries found"
     ],
     "gov.mm": [
         "whois.nic.mm",
-        "No domains matched"
+        "\\QNo domains matched\\E"
     ],
     "gov.mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
     ],
     "gov.my": [
         "whois.mynic.net.my",
-        "does not exist"
+        "\\Qdoes not exist\\E"
     ],
     "gov.sg": [
         "whois.nic.net.sg",
-        "Domain Not Found"
+        "\\QDomain Not Found\\E"
     ],
     "gov.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
+    ],
+    "gov.uk": [
+        "whois.ja.net",
+        "\\QNo such domain\\E"
     ],
     "gov.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "gq": [
         "whois.dominio.gq",
-        "Invalid query or domain name not known"
+        "\\Qnot known\\E"
     ],
     "gr": [
-        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
-        "not exist"
+        "whois.ripe.net",
+        "\\Qno entries found\\E"
+    ],
+    "grajewo.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "graphics": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "gratis": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "green": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "gripe": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "group": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "gs": [
         "whois.nic.gs",
-        "No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "gs.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "gsm.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "guge": [
+        "domain-registry-whois.l.google.com",
+        "\\QDomain not found.\\E"
     ],
     "guide": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "guitars": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "guru": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "gv.ac": [
         "whois.nic.ac",
-        "Available"
+        "\\QAvailable\\E"
     ],
     "gv.at": [
         "whois.nic.at",
-        "nothing found"
+        "\\Qnothing found\\E"
     ],
     "gx.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "gy": [
         "whois.registry.gy",
-        "Domain Status: No Object Found"
+        "\\QDomain Status: No Object Found\\E"
     ],
     "gz.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "hamburg": [
         "whois.nic.hamburg",
-        "% No match"
+        "\\Qobject does not exist\\E"
     ],
     "hangout": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "haus": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "hb.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "hdfcbank": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "he.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "healthcare": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "help": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
+    ],
+    "helsinki": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "here": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "hermes": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "hgtv": [
+        "whois.nic.hgtv",
+        "\\Qno match\\E"
     ],
     "hi.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "hiphop": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
+    ],
+    "hisamitsu": [
+        "whois.nic.gmo",
+        "\\Qnot found\\E"
+    ],
+    "hitachi": [
+        "whois.nic.gmo",
+        "\\Qnot found\\E"
     ],
     "hiv": [
-        "whois.afilias-srs.net",
-        "NOT FOUND"
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
     ],
     "hk": [
-        "whois.hkirc.hk",
-        "The domain has not been registered"
+        "whois.hkirc.net.hk",
+        "\\QThe domain has not been registered\\E"
     ],
     "hk.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "hkt": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "hl.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "hm": [
+        "whois.registry.hm",
+        "\\Qnot found\\E"
     ],
     "hn": [
         "whois.nic.hn",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "hn.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "hockey": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "holdings": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "holiday": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "homedepot": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "homes": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "honda": [
+        "whois.nic.honda",
+        "\\Qnot found\\E"
     ],
     "horse": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "host": [
         "whois.nic.host",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "hosting": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "house": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "how": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "hr": [
-        "http:\/\/dns.hr\/?only_mod_instance=300_612_0&clean_tpl=true&ds_domena=",
-        "nije registrirana"
+        "whois.dns.hr",
+        "\\Qno entries found\\E"
     ],
     "ht": [
         "whois.nic.ht",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "hu": [
         "whois.nic.hu",
-        "No match"
+        "\\Qno match\\E"
     ],
     "hu.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "hyundai": [
+        "whois.nic.hyundai",
+        "\\Qnot found\\E"
     ],
     "ibm": [
         "whois.nic.ibm",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "ice": [
+        "whois.nic.ice",
+        "\\Qno match\\E"
     ],
     "id": [
         "whois.pandi.or.id",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "id.au": [
         "whois.aunic.net",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "id.ir": [
+        "whois.nic.ir",
+        "no entries found"
     ],
     "ie": [
         "whois.domainregistry.ie",
-        "% Not Registered"
+        "\\Qnot registered\\E"
     ],
     "ifm": [
         "whois.nic.ifm",
-        "% no matching objects found"
+        "\\Qno match\\E"
+    ],
+    "iinet": [
+        "whois.aridnrs.net.au",
+        "\\QNo Data Found\\E"
+    ],
+    "ikano": [
+        "whois.ikano.tld-box.at",
+        "\\Qobject does not exist\\E"
     ],
     "il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
+    ],
+    "ilawa.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "im": [
         "whois.nic.im",
-        "was not found"
+        "\\Qnot found\\E"
+    ],
+    "imamat": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "immo": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "immobilien": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "in": [
-        "whois.inregistry.in",
-        "NOT FOUND"
+        "whois.registry.in",
+        "\\Qnot found\\E"
     ],
     "in.rs": [
         "whois.rnids.rs",
-        "%ERROR:103"
+        "\\Q%ERROR:103\\E"
     ],
     "in.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "ind.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "ind.gt": [
         "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
@@ -1721,171 +2429,247 @@
     ],
     "industries": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "inf.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "infiniti": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "info": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "info.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "info.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "info.ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "ing": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "ink": [
-        "whois.donuts.co",
-        "Domain not found"
+        "whois.nic.ink",
+        "\\Qnot found\\E"
     ],
     "institute": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "insurance": [
+        "whois.nic.insurance",
+        "\\Qno match\\E"
     ],
     "insure": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "int": [
         "whois.iana.org",
-        "but this server does not have"
+        "\\Qbut this server does not have\\E"
     ],
     "international": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "investments": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "io": [
         "whois.nic.io",
-        "is available"
+        "\\Qavailable\\E"
     ],
     "iq": [
         "whois.cmc.iq",
-        "Domain Status: No Object Found"
+        "\\Qnot registered\\E"
     ],
     "ir": [
         "whois.nic.ir",
-        "no entries found"
+        "\\Qno entries found\\E"
     ],
-    "co.ir": [
-        "whois.nic.ir",
-        "no entries found"
-    ],
-    "ac.ir": [
-        "whois.nic.ir",
-        "no entries found"
-    ],
-    "sch.ir": [
-        "whois.nic.ir",
-        "no entries found"
-    ],
-    "id.ir": [
-        "whois.nic.ir",
-        "no entries found"
-    ],
-    "gov.ir": [
-        "whois.nic.ir",
-        "no entries found"
-    ],
-    "org.ir": [
-        "whois.nic.ir",
-        "no entries found"
-    ],
-    "net.ir": [
-        "whois.nic.ir",
-        "no entries found"
+    "irish": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "is": [
         "whois.isnic.is",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "iselect": [
+        "whois.nic.iselect",
+        "\\Qavailable\\E"
+    ],
+    "ismaili": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "ist": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "istanbul": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "it": [
         "whois.nic.it",
-        "AVAILABLE"
+        "\\Qavailable\\E"
+    ],
+    "itv": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "iwi.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
+    ],
+    "jaguar": [
+        "whois.nic.jaguar",
+        "\\Qno match\\E"
     ],
     "java": [
         "whois.nic.java",
-        "No match for"
+        "\\Qno match\\E"
+    ],
+    "jaworzno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "jcb": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "jcp": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "je": [
         "whois.je",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "jelenia-gora.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "jetzt": [
+        "whois.nic.jetzt",
+        "\\Qnot found\\E"
+    ],
+    "jewelry": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "jgora.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "jl.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "jll": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "jobs": [
-        "jobswhois.verisign-grs.com",
-        "No match for"
+        "whois.nic.jobs",
+        "\\Qno match\\E"
     ],
     "joburg": [
         "joburg-whois.registry.net.za",
-        "Available"
+        "\\Qavailable\\E"
     ],
     "jor.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "jp": [
         "whois.jprs.jp",
-        "No match!!"
+        "\\Qno match\\E"
     ],
     "js.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "juegos": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "k12.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "k12.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
+    ],
+    "kalisz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "karpacz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "kartuzy.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "kaszuby.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "katowice.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "kaufen": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "kazimierz-dolny.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "kddi": [
         "whois.nic.kddi",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "ke": [
         "whois.kenic.or.ke",
-        "Domain Status: No Object Found"
+        "\\QNot Registered\\E"
+    ],
+    "kepno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "kerryhotels": [
+        "whois.nic.kerryhotels",
+        "\\Qno match\\E"
+    ],
+    "kerrylogistics": [
+        "whois.nic.kerrylogistics",
+        "\\Qno match\\E"
+    ],
+    "kerryproperties": [
+        "whois.nic.kerryproperties",
+        "\\Qno match\\E"
+    ],
+    "ketrzyn.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "kg": [
         "whois.domain.kg",
@@ -1893,395 +2677,667 @@
     ],
     "kh.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "ki": [
         "whois.nic.ki",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
+    ],
+    "kia": [
+        "whois.nic.kia",
+        "\\Qnot found\\E"
     ],
     "kiev.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "kim": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "kitchen": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "kiwi": [
         "whois.nic.kiwi",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "kiwi.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
+    ],
+    "klodzko.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "kn": [
+        "whois.nic.kn",
+        "\\QNo Object Found\\E"
+    ],
+    "kobierzyce.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "koeln": [
         "whois-fe1.pdt.koeln.tango.knipp.de",
-        "% no matching objects found"
+        "\\Qno match\\E"
+    ],
+    "kolobrzeg.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "komatsu": [
+        "whois.nic.komatsu",
+        "\\Qnot found\\E"
+    ],
+    "konin.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "konskowola.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "kosher": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "kr": [
-        "whois.kr",
-        "is not registered"
+        "whois.nic.or.kr",
+        "\\Qis not registered\\E"
     ],
     "krd": [
         "whois.aridnrs.net.au",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "kred": [
+        "whois.nic.kred",
+        "\\Qavailable\\E"
+    ],
+    "kuokgroup": [
+        "whois.nic.kuokgroup",
+        "\\Qno match\\E"
+    ],
+    "kutno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "ky": [
         "whois.kyregistry.ky",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "kyoto": [
         "whois.nic.kyoto",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "kz": [
         "whois.nic.kz",
-        "Nothing found for this query."
+        "\\Qnothing found\\E"
     ],
     "la": [
         "whois.nic.la",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "lacaixa": [
         "whois.nic.lacaixa",
-        "% no matching objects found"
+        "\\Qno match\\E"
+    ],
+    "lamborghini": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "lamer": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "lancaster": [
+        "whois-lancaster.nic.fr",
+        "\\Qobject does not exist\\E"
     ],
     "land": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "landrover": [
+        "whois.nic.landrover",
+        "\\Qno match\\E"
+    ],
+    "lapy.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "lasalle": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "lat": [
         "whois.nic.lat",
-        "Object_Not_Found"
+        "\\Qno existe\\E"
     ],
     "latrobe": [
         "whois.nic.latrobe",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "law": [
+        "whois-dub.mm-registry.com",
+        "\\Qavailable\\E"
     ],
     "lawyer": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "lc": [
         "whois2.afilias-grs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "lease": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "lebork.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "leclerc": [
         "whois-leclerc.nic.fr",
-        "Requested Domain cannot be found"
+        "\\Qobject does not exist\\E"
     ],
     "legal": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "legnica.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "lego": [
+        "whois.nic.lego",
+        "\\Qno match\\E"
     ],
     "lel.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "lexus": [
+        "whois.nic.lexus",
+        "\\Qnot found\\E"
+    ],
+    "lezajsk.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "lg.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "lgbt": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "li": [
         "whois.nic.li",
-        "do not have an entry in our database matching your query"
+        "\\Qnot have an entry\\E"
+    ],
+    "liaison": [
+        "whois.nic.liaison",
+        "\\Qno match\\E"
+    ],
+    "lidl": [
+        "whois.nic.lidl",
+        "\\Qavailable\\E"
     ],
     "life": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "lifestyle": [
+        "whois.nic.lifestyle",
+        "\\Qno match\\E"
     ],
     "lighting": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "limanowa.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "limited": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "limo": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "linde": [
+        "whois.nic.linde",
+        "\\Qno match\\E"
     ],
     "link": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
+    ],
+    "lipsy": [
+        "whois.nic.lipsy",
+        "\\Qno match\\E"
+    ],
+    "live": [
+        "whois.rightside.co",
+        "\\QDomain not found.\\E"
+    ],
+    "lixil": [
+        "whois.nic.lixil",
+        "\\Qnot found\\E"
     ],
     "ln.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "loan": [
+        "whois.nic.loan",
+        "\\Qavailable\\E"
     ],
     "loans": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "locker": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "locus": [
+        "whois.nic.locus",
+        "\\Qavailable\\E"
+    ],
+    "lol": [
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
+    ],
+    "lomza.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "london": [
         "whois-lon.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "lotte": [
         "whois.nic.lotte",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "lotto": [
+        "whois.afilias.net",
+        "\\QNOT FOUND\\E"
     ],
     "love": [
         "whois.nic.love",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "lovesnaija.com": [
+        "srs-whois.dns.net.za",
+        "\\QNo information was found\\E"
+    ],
+    "lowicz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "lt": [
-        "whois.domreg.lt",
-        "Status:\t\t\tavailable"
+        "whois.ripe.net",
+        "\\Qno entries found\\E"
+    ],
+    "ltd": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "ltd.uk": [
         "whois.nic.uk",
-        "No match"
+        "\\QNo match\\E"
     ],
     "ltda": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "lu": [
         "whois.dns.lu",
-        "No such domain"
+        "\\Q% no such domain\\E"
+    ],
+    "lubin.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "lukow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "luxe": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "luxury": [
-        "whois.donuts.co",
-        "Domain not found"
+        "whois.nic.luxury",
+        "\\Qavailable\\E"
     ],
     "lv": [
-        "whois.nic.lv",
-        "Status: free"
+        "whois.ripe.net",
+        "\\Qno entries found\\E"
     ],
     "lviv.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "ly": [
         "whois.nic.ly",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "ma": [
-        "whois.iam.net.ma",
-        "Domain Status: No Object Found"
+        "whois.registre.ma",
+        "\\QNo Object Found\\E"
     ],
     "madrid": [
         "whois.madrid.rs.corenic.net",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "mail.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "maison": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "makeup": [
+        "whois.nic.makeup",
+        "\\Qno match\\E"
+    ],
+    "malbork.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "malopolska.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "man": [
+        "whois.nic.man",
+        "\\Qno match\\E"
     ],
     "management": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "mango": [
         "whois.mango.coreregistry.net",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "maori.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "market": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "marketing": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "markets": [
+        "whois.nic.markets",
+        "\\Qno match\\E"
+    ],
+    "marriott": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "mazowsze.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "mazury.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "mba": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "md": [
         "whois.nic.md",
         "No match for"
     ],
     "me": [
-        "whois.meregistry.net",
-        "NOT FOUND"
+        "whois.nic.me",
+        "\\Qnot found\\E"
     ],
     "me.uk": [
         "whois.nic.uk",
-        "No match"
+        "\\QNo match\\E"
+    ],
+    "med": [
+        "whois.nic.med",
+        "\\Qno match\\E"
     ],
     "med.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "med.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "media": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "media.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "meet": [
+        "whois.afilias.net",
+        "\\QNOT FOUND\\E"
     ],
     "melbourne": [
         "whois.aridnrs.net.au",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "meme": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "memorial": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "men": [
+        "whois.nic.men",
+        "\\Qavailable\\E"
     ],
     "menu": [
         "whois.nic.menu",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "metlife": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "mg": [
         "whois.nic.mg",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "mi.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "miami": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "miasta.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "mielec.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "mielno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "mil": [
         "whois.internic.net",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "mil.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "mil.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "mil.gt": [
         "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
         "DOMINIO NO REGISTRADO"
     ],
     "mil.id": [
-        "whois.pandi.or.id",
-        "DOMAIN NOT FOUND"
+        "whois.idnic.net.id",
+        "\\QNot found\\E"
     ],
     "mil.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "mil.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "mil.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "mini": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "mk": [
         "whois.marnet.mk",
-        "% No entries found."
+        "\\Q% No entries found.\\E"
     ],
     "ml": [
         "whois.dot.ml",
-        "Invalid query or domain name not known"
+        "\\Qnot known\\E"
+    ],
+    "mls": [
+        "whois.nic.mls",
+        "\\Qno match\\E"
     ],
     "mn": [
         "whois.afilias-grs.info",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "mo": [
         "whois.monic.mo",
-        "No match for"
+        "\\Qno match\\E"
     ],
     "mo.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "mobi": [
         "whois.dotmobiregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "moda": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "moe": [
+        "whois.nic.moe",
+        "\\Qavailable\\E"
+    ],
+    "mom": [
+        "whois.uniregistry.net",
+        "\\Qavailable\\E"
     ],
     "monash": [
         "whois.nic.monash",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "money": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "mortgage": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "moscow": [
         "whois.nic.moscow",
-        "No entries found"
+        "\\Qnot found\\E"
+    ],
+    "motorcycles": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "mov": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "movie": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "movistar": [
+        "whois-fe.movistar.tango.knipp.de",
+        "\\Qno match\\E"
+    ],
+    "mragowo.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "ms": [
         "whois.nic.ms",
-        "No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "msk.ru": [
         "whois.nic.ru",
-        "No entries found"
+        "\\QNo entries found\\E"
+    ],
+    "mtn": [
+        "whois.nic.mtn",
+        "\\Qavailable\\E"
     ],
     "mtpc": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "mtr": [
+        "whois.nic.mtr",
+        "\\QThe domain has not been registered\\E"
     ],
     "mu": [
         "whois.nic.mu",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "muni.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "museum": [
         "whois.museum",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "mutuelle": [
+        "whois-mutuelle.nic.fr",
+        "\\Qobject does not exist\\E"
     ],
     "mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
     ],
     "my": [
         "whois.mynic.net.my",
@@ -2289,55 +3345,75 @@
     ],
     "mz": [
         "whois.nic.mz",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "na": [
         "whois.na-nic.com.na",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
+    ],
+    "nadex": [
+        "whois.nic.nadex",
+        "\\Qno match\\E"
+    ],
+    "nagoya": [
+        "whois.gmoregistry.net",
+        "\\Qnot found\\E"
+    ],
+    "naklo.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "name": [
         "whois.nic.name",
-        "No match"
+        "\\Qno match\\E"
+    ],
+    "natura": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "navy": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "nc": [
         "whois.nc",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "ne.jp": [
-        "whois.nic.ad.jp",
-        "No match!!"
+        "whois.jprs.jp",
+        "\\Qno match\\E"
     ],
     "ne.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
+    ],
+    "nec": [
+        "whois.nic.nec",
+        "\\Qnot found\\E"
     ],
     "net": [
-        "whois.crsnic.net",
-        "No match for"
+        "whois.verisign-grs.com",
+        "\\Qno match for\\E"
     ],
     "net.au": [
         "whois.aunic.net",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "net.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "net.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "net.co": [
         "whois.nic.co",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "net.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "net.gr": [
         "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
@@ -2349,31 +3425,35 @@
     ],
     "net.hk": [
         "whois.hkdnr.net.hk",
-        "The domain has not been registered"
+        "\\QThe domain has not been registered\\E"
     ],
     "net.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "net.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "net.ir": [
+        "whois.nic.ir",
+        "no entries found"
     ],
     "net.mm": [
         "whois.nic.mm",
-        "No domains matched"
+        "\\QNo domains matched\\E"
     ],
     "net.mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
     ],
     "net.my": [
         "whois.mynic.net.my",
-        "does not exist"
+        "\\Qdoes not exist\\E"
     ],
     "net.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "net.ph": [
         "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
@@ -2381,67 +3461,83 @@
     ],
     "net.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "net.ru": [
         "whois.ripn.net",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "net.sg": [
         "whois.nic.net.sg",
-        "Domain Not Found"
+        "\\QDomain Not Found\\E"
     ],
     "net.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "net.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "net.tw": [
         "whois.twnic.net",
-        "No Found"
+        "\\QNo Found\\E"
     ],
     "net.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "net.uk": [
         "whois.nic.uk",
-        "No match"
+        "\\QNo match\\E"
     ],
     "net.ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "net.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
+    ],
+    "netbank": [
+        "whois.nic.netbank",
+        "\\QNo Data Found\\E"
     ],
     "network": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "new": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "news": [
+        "whois.rightside.co",
+        "\\QDomain not found.\\E"
+    ],
+    "next": [
+        "whois.nic.next",
+        "\\Qno match\\E"
+    ],
+    "nextdirect": [
+        "whois.nic.nextdirect",
+        "\\Qno match\\E"
     ],
     "nexus": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "nf": [
         "whois.nic.nf",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "ng": [
         "whois.nic.net.ng",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "ngo": [
         "whois.publicinterestregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "ngo.ph": [
         "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
@@ -2449,151 +3545,247 @@
     ],
     "ngo.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "nico": [
         "whois.nic.nico",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "nieruchomosci.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "nikon": [
+        "whois.nic.nikon",
+        "\\Qno match\\E"
     ],
     "ninja": [
-        "whois.donuts.co",
-        "Domain not found"
+        "whois.unitedtld.com",
+        "\\QDomain not found.\\E"
     ],
     "nissan": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "nissay": [
+        "whois.nic.nissay",
+        "\\Qno match\\E"
     ],
     "nl": [
         "whois.domain-registry.nl",
-        "is free"
+        "\\Qis free\\E"
     ],
     "nm.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "nm.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
     ],
     "no": [
         "whois.norid.no",
-        "No match"
+        "\\Qno match\\E"
     ],
     "no.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "nokia": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "nom.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "nom.co": [
         "whois.nic.co",
-        "Not found"
+        "\\QNot found\\E"
     ],
     "nom.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "nom.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "nom.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
+    ],
+    "norton": [
+        "whois.nic.norton",
+        "\\Qno match\\E"
+    ],
+    "nowaruda.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "nowruz": [
+        "whois.agitsys.net",
+        "\\QNo Object Found\\E"
+    ],
+    "nowtv": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "nra": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "nrw": [
         "whois.nic.nrw",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "nt.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "ntr.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "nu": [
         "whois.nic.nu",
-        "not found"
+        "\\Qnot found\\E"
     ],
     "nx.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "nyc": [
+        "whois.nic.nyc",
+        "\\Qobject does not exist\\E"
+    ],
+    "nysa.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
+    ],
+    "obi": [
+        "whois.nic.obi",
+        "\\Qno match\\E"
     ],
     "odo.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "olawa.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "olayan": [
+        "whois.nic.olayan",
+        "\\Qavailable\\E"
+    ],
+    "olayangroup": [
+        "whois.nic.olayangroup",
+        "\\Qavailable\\E"
+    ],
+    "olecko.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "olkusz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "ollo": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "olsztyn.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "om": [
         "whois.registry.om",
-        "No Data Found"
+        "\\Qno data found\\E"
+    ],
+    "omega": [
+        "whois.nic.omega",
+        "\\Qno match\\E"
     ],
     "one": [
         "whois.nic.one",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "ong": [
         "whois.publicinterestregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "onl": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "online": [
+        "whois.centralnic.com",
+        "\\Qnot found\\E"
     ],
     "ooo": [
         "whois.nic.ooo",
-        "No match for"
+        "\\Qno match for\\E"
+    ],
+    "opoczno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "opole.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "or.ac": [
         "whois.nic.ac",
-        "Available"
+        "\\QAvailable\\E"
     ],
     "or.at": [
         "whois.nic.at",
-        "nothing found"
+        "\\Qnothing found\\E"
     ],
     "or.jp": [
-        "whois.nic.ad.jp",
-        "No match!!"
+        "whois.jprs.jp",
+        "\\Qno match\\E"
     ],
     "or.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
     ],
     "or.th": [
         "whois.thnic.net",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "oracle": [
+        "whois.nic.oracle",
+        "\\Qno match\\E"
+    ],
+    "orange": [
+        "whois.nic.orange",
+        "\\Qno match\\E"
     ],
     "org": [
         "whois.publicinterestregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "org.au": [
         "whois.aunic.net",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "org.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "org.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "org.ec": [
         "whois.lac.net",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "org.gr": [
         "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
@@ -2605,31 +3797,35 @@
     ],
     "org.hk": [
         "whois.hkdnr.net.hk",
-        "The domain has not been registered"
+        "\\QThe domain has not been registered\\E"
     ],
     "org.il": [
         "whois.isoc.org.il",
-        "No data was found"
+        "\\QNo data was found\\E"
     ],
     "org.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "org.ir": [
+        "whois.nic.ir",
+        "no entries found"
     ],
     "org.mm": [
         "whois.nic.mm",
-        "No domains matched"
+        "\\QNo domains matched\\E"
     ],
     "org.mx": [
         "whois.nic.mx",
-        "Object_Not_Found"
+        "\\QObject_Not_Found\\E"
     ],
     "org.my": [
         "whois.mynic.net.my",
-        "does not exist"
+        "\\Qdoes not exist\\E"
     ],
     "org.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "org.ph": [
         "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
@@ -2637,43 +3833,43 @@
     ],
     "org.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "org.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "org.rs": [
         "whois.rnids.rs",
-        "%ERROR:103"
+        "\\Q%ERROR:103\\E"
     ],
     "org.ru": [
         "whois.nic.ru",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "org.sg": [
         "whois.nic.net.sg",
-        "Domain Not Found"
+        "\\QDomain Not Found\\E"
     ],
     "org.tr": [
         "whois.metu.edu.tr",
-        "No match found"
+        "\\QNo match found\\E"
     ],
     "org.tw": [
         "whois.twnic.net",
-        "No Found"
+        "\\QNo Found\\E"
     ],
     "org.ua": [
         "whois.net.ua",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "org.uk": [
         "whois.nic.uk",
-        "No match"
+        "\\QNo match\\E"
     ],
     "org.ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "org.za": [
         "http:\/\/org.za\/cgi-bin\/rwhois?format=full&domain=",
@@ -2681,247 +3877,431 @@
     ],
     "organic": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "orientexpress": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "origins": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "osaka": [
+        "whois.nic.osaka",
+        "\\Qavailable\\E"
+    ],
+    "ostroda.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "ostroleka.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "ostrowiec.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "ostrowwlkp.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "ott": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "ovh": [
         "whois-ovh.nic.fr",
-        "Requested Domain cannot be found"
+        "\\Qobject does not exist\\E"
     ],
-    "online": [
-        "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+    "page": [
+        "domain-registry-whois.l.google.com",
+        "\\QDomain not found.\\E"
     ],
     "paris": [
         "whois-paris.nic.fr",
-        "Requested Domain cannot be found"
+        "\\Qobject does not exist\\E"
+    ],
+    "pars": [
+        "whois.agitsys.net",
+        "\\QNo Object Found\\E"
     ],
     "partners": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "parts": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "party": [
+        "whois.nic.party",
+        "\\Qavailable\\E"
     ],
     "pc.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "pccw": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "pe": [
         "kero.yachay.pe",
-        "Status: Not Registered"
+        "\\QNo Object Found\\E"
+    ],
+    "pet": [
+        "whois.afilias.net",
+        "\\QNOT FOUND\\E"
     ],
     "pf": [
         "whois.registry.pf",
-        "Domain unknown"
+        "\\QDomain unknown\\E"
     ],
     "ph": [
         "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
         "is still available"
     ],
+    "philips": [
+        "whois.nic.philips",
+        "\\Qavailable\\E"
+    ],
     "photo": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "photography": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "photos": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "physio": [
         "whois.nic.physio",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "pics": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
     ],
     "pictures": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "pid": [
+        "whois.nic.pid",
+        "\\Qnot found\\E"
+    ],
+    "pila.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "pink": [
-        "whois.donuts.co",
-        "Domain not found"
+        "whois.afilias.net",
+        "\\QNOT FOUND\\E"
+    ],
+    "pioneer": [
+        "whois.nic.gmo",
+        "\\Qnot found\\E"
+    ],
+    "pisz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "pizza": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "place": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "play": [
+        "whois.nic.google",
+        "\\Qnot found\\E"
+    ],
+    "playstation": [
+        "whois.nic.playstation",
+        "\\Qavailable\\E"
     ],
     "plc.uk": [
         "whois.nic.uk",
-        "No match"
+        "\\QNo match\\E"
     ],
     "plumbing": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "plus": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "pm": [
         "whois.nic.pm",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "pnc": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "podhale.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "podlasie.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "pohl": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "poker": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "politie": [
+        "whois.nic.politie",
+        "\\QStatus: free\\E"
+    ],
+    "polkowice.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "pomorskie.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "pomorze.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "porn": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "post": [
         "whois.dotpostregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "powiat.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "pp.ru": [
         "whois.nic.ru",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "ppg.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "pr": [
         "whois.nic.pr",
-        "is not registered"
+        "\\Qis not registered\\E"
     ],
     "press": [
         "whois.nic.press",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "presse.fr": [
         "whois.nic.fr",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "priv.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "pro": [
-        "whois.registrypro.pro",
-        "NOT FOUND"
+        "whois.internic.net",
+        "\\Qno match for\\E"
     ],
     "pro.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "prochowice.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "prod": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "productions": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "prof": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "progressive": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "promo": [
+        "whois.afilias.net",
+        "\\QNOT FOUND\\E"
     ],
     "properties": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "property": [
         "whois.uniregistry.net",
-        "is available for"
+        "\\Qavailable\\E"
+    ],
+    "protection": [
+        "whois.nic.protection",
+        "\\Qnot found\\E"
+    ],
+    "pruszkow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "przeworsk.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "ps": [
+        "whois.pnina.ps",
+        "\\QNo Object Found\\E"
     ],
     "psc.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "psi.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "pt": [
-        "whois.dns.pt",
-        "no match"
+        "whois.ripe.net",
+        "\\Qno entries found\\E"
     ],
     "pub": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "pulawy.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "pw": [
         "whois.nic.pw",
         "DOMAIN NOT FOUND"
     ],
+    "pwc": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
     "qa": [
         "whois.registry.qa",
-        "No Data Found"
+        "\\Qno data found\\E"
     ],
     "qc.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "qh.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "qpon": [
+        "whois.nic.qpon",
+        "\\Qavailable\\E"
     ],
     "quebec": [
         "whois.nic.quebec",
-        "% no matching objects found"
+        "\\Qno match\\E"
+    ],
+    "quest": [
+        "whois.nic.quest",
+        "\\Qavailable\\E"
+    ],
+    "racing": [
+        "whois.nic.racing",
+        "\\Qavailable\\E"
+    ],
+    "radom.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "rawa-maz.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "re": [
         "whois.nic.re",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "re.kr": [
         "whois.nic.or.kr",
-        "is not registered"
+        "\\Qis not registered\\E"
+    ],
+    "realestate": [
+        "whois.nic.realestate",
+        "\\Qno match\\E"
     ],
     "realestate.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "realty": [
+        "whois.nic.realty",
+        "\\Qnot found\\E"
     ],
     "rec.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "rec.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "recipes": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "red": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
+    ],
+    "redstone": [
+        "whois.nic.redstone",
+        "\\Qnot found\\E"
+    ],
+    "redumbrella": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "rehab": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "reise": [
         "whois.nic.reise",
-        "% No match"
+        "\\Qnot found\\E"
     ],
     "reisen": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "reit": [
         "whois.nic.reit",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "rel.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "rent": [
         "whois.nic.rent",
@@ -2929,199 +4309,363 @@
     ],
     "rentals": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "repair": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "report": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "republican": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "res.in": [
         "whois.inregistry.in",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "rest": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "restaurant": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "review": [
+        "whois.nic.review",
+        "\\Qavailable\\E"
     ],
     "reviews": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "rexroth": [
+        "whois.nic.rexroth",
+        "\\Qno match\\E"
     ],
     "rich": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "richardli": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "ricoh": [
+        "whois.nic.ricoh",
+        "\\Qnot found\\E"
     ],
     "rio": [
         "whois.gtlds.nic.br",
-        "No match for"
+        "\\Qobject does not exist\\E"
     ],
     "rip": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "rocks": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "rodeo": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "rs": [
         "whois.rnids.rs",
-        "%ERROR:103"
+        "\\Q%ERROR:103\\E"
     ],
     "rsvp": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "ru": [
-        "whois.ripn.net",
-        "No entries found"
+        "whois.tcinet.ru",
+        "\\Qno entries found\\E"
     ],
     "ruhr": [
         "whois.nic.ruhr",
-        "% no matching objects found"
+        "\\Qno match\\E"
+    ],
+    "run": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "rw": [
+        "whois.ricta.org.rw",
+        "\\QNo Object Found\\E"
+    ],
+    "rwe": [
+        "whois.nic.rwe",
+        "\\Qno match\\E"
+    ],
+    "rybnik.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "rzeszow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "sa": [
         "whois.nic.net.sa",
-        "No Match"
+        "\\QNo Match\\E"
     ],
     "sa.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "saarland": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "sale": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "salon": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "samsung": [
-        "whois.nic.samsung",
-        "No match for"
+        "whois.nic.xn--cg4bki",
+        "\\Qno match\\E"
+    ],
+    "sandvik": [
+        "whois.nic.sandvik",
+        "\\Qavailable\\E"
+    ],
+    "sandvikcoromant": [
+        "whois.nic.sandvikcoromant",
+        "\\Qavailable\\E"
+    ],
+    "sanofi": [
+        "whois.nic.sanofi",
+        "\\Qno match\\E"
+    ],
+    "sanok.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "sap": [
+        "whois.nic.sap",
+        "\\Qno match\\E"
     ],
     "sarl": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "saxo": [
         "whois.aridnrs.net.au",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "sb": [
-        "whois.nic.net.sb",
-        "Domain Status: No Object Found"
+        "whois.nic.sb",
+        "\\QNo Object Found\\E"
+    ],
+    "sbi": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "sbs": [
+        "whois.nic.sbs",
+        "\\Qno match\\E"
     ],
     "sc": [
-        "wawa.eahd.or.ug",
-        "No entries found"
+        "whois2.afilias-grs.net",
+        "\\Qnot found\\E"
     ],
     "sc.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "sca": [
         "whois.nic.sca",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "scb": [
         "whois.nic.scb",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "sch.ir": [
+        "whois.nic.ir",
+        "no entries found"
+    ],
+    "schaeffler": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "schmidt": [
         "whois.nic.schmidt",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "school": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "school.nz": [
         "whois.srs.net.nz",
-        "220 Available"
+        "\\Q220 Available\\E"
     ],
     "school.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "schule": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "schwarz": [
+        "whois.nic.schwarz",
+        "\\Qavailable\\E"
+    ],
+    "science": [
+        "whois.nic.science",
+        "\\Qavailable\\E"
+    ],
+    "scor": [
+        "whois.nic.scor",
+        "\\QNo Data Found\\E"
     ],
     "scot": [
         "whois.scot.coreregistry.net",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "se": [
-        "whois.iis.se",
-        "not found"
+        "whois.nic.se",
+        "\\Qnot found\\E"
     ],
     "se.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "se.net": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "seat": [
+        "whois.nic.seat",
+        "\\Qno match\\E"
+    ],
+    "seek": [
+        "whois.nic.seek",
+        "\\Qavailable\\E"
+    ],
+    "sejny.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "select": [
+        "whois.nic.select",
+        "\\Qavailable\\E"
     ],
     "services": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "seven": [
+        "whois.nic.seven",
+        "\\Qavailable\\E"
+    ],
+    "sew": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "sex": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "sex.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "sexy": [
         "whois.uniregistry.net",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "sfr": [
+        "whois.nic.sfr",
+        "\\Qno match\\E"
     ],
     "sg": [
-        "whois.nic.net.sg",
-        "Domain Not Found"
+        "whois.sgnic.sg",
+        "\\Qnot found\\E"
     ],
     "sh": [
         "whois.nic.sh",
-        "is available for purchase"
+        "\\Qis available for purchase\\E"
     ],
     "sh.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "shangrila": [
+        "whois.nic.shangrila",
+        "\\Qno match\\E"
+    ],
+    "sharp": [
+        "whois.nic.gmo",
+        "\\Qnot found\\E"
+    ],
+    "shaw": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "shell": [
+        "whois.nic.shell",
+        "\\Qno match\\E"
+    ],
+    "shia": [
+        "whois.agitsys.net",
+        "\\QNo Object Found\\E"
     ],
     "shiksha": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "shoes": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "shop.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "shopping": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "shouji": [
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
+    ],
+    "show": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "shriram": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "si": [
-        "whois.arnes.si",
-        "No entries found"
+        "whois.register.si",
+        "\\Qavailable\\E"
+    ],
+    "sina": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "singles": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "site": [
         "whois.centralnic.com",
@@ -3129,207 +4673,419 @@
     ],
     "sk": [
         "whois.sk-nic.sk",
-        "Not found"
+        "\\Qnot found\\E"
+    ],
+    "ski": [
+        "whois.ksregistry.net",
+        "\\Qobject does not exist\\E"
+    ],
+    "skin": [
+        "whois.nic.skin",
+        "\\Qno match\\E"
     ],
     "sklep.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "skoczow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "sky": [
         "whois.nic.sky",
-        "No match for"
+        "\\Qno match\\E"
+    ],
+    "sl": [
+        "whois.nic.sl",
+        "\\QNo Object Found\\E"
+    ],
+    "slask.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "slg.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "slupsk.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "sm": [
         "whois.nic.sm",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "sn": [
         "whois.nic.sn",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "sn.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "sncf": [
+        "whois-sncf.nic.fr",
+        "\\Qobject does not exist\\E"
     ],
     "so": [
         "whois.nic.so",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "soccer": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "sochi.su": [
         "whois.nic.ru",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "social": [
         "whois.unitedtld.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "softbank": [
+        "whois.nic.softbank",
+        "\\Qnot found\\E"
     ],
     "software": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "sohu": [
+        "whois.gtld.knet.cn",
+        "\\Qobject does not exist\\E"
     ],
     "solar": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "solutions": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "sony": [
+        "whois.nic.sony",
+        "\\QNo Data Found\\E"
     ],
     "sos.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "sosnowiec.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "soy": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "space": [
         "whois.nic.space",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "spb.ru": [
         "whois.nic.ru",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "spiegel": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
+    ],
+    "spreadbetting": [
+        "whois.nic.spreadbetting",
+        "\\Qno match\\E"
+    ],
+    "srl": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "st": [
         "whois.nic.st",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "stada": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "stalowa-wola.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "star": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "starachowice.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "stargard.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "starhub": [
+        "whois.nic.starhub",
+        "\\Qavailable\\E"
+    ],
+    "statebank": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "statoil": [
+        "whois.nic.statoil",
+        "\\Qno match\\E"
+    ],
+    "stc": [
+        "whois.centralnic.com",
+        "\\Qnot found\\E"
+    ],
+    "stockholm": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "storage": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "store": [
         "whois.nic.store",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "store.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
+    ],
+    "studio": [
+        "whois.rightside.co",
+        "\\QDomain not found.\\E"
     ],
     "study": [
         "whois.nic.study",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "style": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "su": [
-        "whois.ripn.net",
-        "No entries found"
+        "whois.tcinet.ru",
+        "\\Qno entries found\\E"
     ],
     "sucks": [
         "whois.nic.sucks",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "supplies": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "supply": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "support": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "surf": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "surgery": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "suwalki.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "swatch": [
+        "whois.nic.swatch",
+        "\\Qno match\\E"
+    ],
+    "swidnica.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "swiebodzin.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "swinoujscie.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "swiss": [
         "whois.nic.swiss",
-        "no matching objects found"
+        "\\Qno match\\E"
     ],
     "sx": [
         "whois.sx",
-        "Status: AVAILABLE"
+        "\\Qno match for\\E"
     ],
     "sy": [
         "whois.tld.sy",
-        "Available"
+        "\\QNo Object Found\\E"
     ],
     "sydney": [
         "whois.nic.sydney",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "symantec": [
+        "whois.nic.symantec",
+        "\\Qno match\\E"
     ],
     "systems": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "szczecin.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "szczytno.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "szkola.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "tab": [
+        "whois.nic.tab",
+        "\\Qavailable\\E"
     ],
     "taipei": [
         "whois.nic.taipei",
-        "Not found:"
+        "\\Qobject does not exist\\E"
     ],
     "targi.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "tarnobrzeg.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "tatamotors": [
+        "whois.nic.tatamotors",
+        "\\Qno match\\E"
     ],
     "tatar": [
         "whois.nic.tatar",
-        "No entries found"
+        "\\Qobject does not exist\\E"
     ],
     "tattoo": [
         "whois.uniregistry.net",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "tax": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "taxi": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "tc": [
-        "whois.adamsnames.tc",
-        "Available"
+        "whois.nic.tc",
+        "\\QNo Object Found\\E"
+    ],
+    "tci": [
+        "whois.agitsys.net",
+        "\\QNo Object Found\\E"
+    ],
+    "tdk": [
+        "whois.nic.tdk",
+        "\\Qavailable\\E"
+    ],
+    "team": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "tech": [
         "whois.nic.tech",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "technology": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "tel": [
         "whois.nic.tel",
-        "Not found"
+        "\\Qnot found\\E"
+    ],
+    "telecity": [
+        "whois.nic.telecity",
+        "\\Qavailable\\E"
+    ],
+    "telefonica": [
+        "whois-fe.telefonica.tango.knipp.de",
+        "\\Qno match\\E"
+    ],
+    "temasek": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "tennis": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "teva": [
+        "whois.nic.teva",
+        "\\Qavailable\\E"
     ],
     "tf": [
         "whois.nic.tf",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "tg": [
+        "whois.nic.tg",
+        "\\QNo Object Found\\E"
+    ],
+    "tgory.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "th": [
         "whois.thnic.co.th",
-        "No match for"
+        "\\Qno match for\\E"
+    ],
+    "theater": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "theatre": [
+        "whois.nic.theatre",
+        "\\Qnot found\\E"
+    ],
+    "tickets": [
+        "whois.nic.tickets",
+        "\\Qnot found\\E"
     ],
     "tienda": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "tiffany": [
+        "whois.nic.tiffany",
+        "\\Qno match\\E"
+    ],
+    "tiffay": [
+        "whois.nic.tiffany",
+        "\\Qno match\\E"
     ],
     "tips": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "tires": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "tirol": [
         "whois.nic.tirol",
-        "% No match"
+        "\\Qobject does not exist\\E"
     ],
     "tj": [
         "whois.nic.tj",
@@ -3337,99 +5093,139 @@
     ],
     "tj.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "tk": [
-        "https:\/\/partners.nic.tk\/cgi-bin\/whmcs-whois.taloha?d=",
-        "has no matches"
+        "whois.dot.tk",
+        "\\Qnot known\\E"
     ],
     "tl": [
         "whois.nic.tl",
-        "Domain Status: No Object Found"
+        "\\QNo Object Found\\E"
     ],
     "tm": [
         "whois.nic.tm",
-        "is available"
+        "\\Qis available\\E"
     ],
     "tm.fr": [
         "whois.nic.fr",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "tm.mc": [
         "whois.ripe.net",
-        "no entries found"
+        "\\Qno entries found\\E"
     ],
     "tm.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "tm.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
     ],
     "tm.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "tmp.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "tn": [
         "whois.ati.tn",
         "NO OBJECT FOUND!"
     ],
     "to": [
-        "monarch.tonic.to",
-        "No match for"
+        "whois.tonic.to",
+        "\\Qno match for\\E"
     ],
     "today": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "tokyo": [
+        "whois.nic.tokyo",
+        "\\Qnot found\\E"
     ],
     "tools": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "top": [
         "whois.nic.top",
-        "No match"
+        "\\Qobject does not exist\\E"
+    ],
+    "toray": [
+        "whois.nic.toray",
+        "\\Qnot found\\E"
     ],
     "toshiba": [
         "whois.nic.toshiba",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "total": [
+        "whois-total.nic.fr",
+        "\\Qobject does not exist\\E"
     ],
     "tourism.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "tours": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "town": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "toyota": [
+        "whois.nic.toyota",
+        "\\Qnot found\\E"
     ],
     "toys": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "trade": [
         "whois.nic.trade",
-        "No domain exists for the search"
+        "\\Qobject does not exist\\E"
+    ],
+    "trading": [
+        "whois.nic.trading",
+        "\\Qno match\\E"
     ],
     "training": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "travel": [
         "whois.nic.travel",
-        "Not found"
+        "\\Qnot found\\E"
     ],
     "travel.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
+    ],
+    "travelchannel": [
+        "whois.nic.travelchannel",
+        "\\Qno match\\E"
+    ],
+    "travelers": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "travelersinsurance": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "trust": [
         "whois.nic.trust",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "trv": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "tt": [
         "https:\/\/www.nic.tt\/cgi-bin\/search.pl?name=",
@@ -3437,183 +5233,275 @@
     ],
     "tui": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "tur.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "turek.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "turystyka.pl": [
         "whois.dns.pl",
-        "No information available"
+        "(available for registration|No information available)"
     ],
     "tv": [
         "whois.nic.tv",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "tv.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
+    ],
+    "tvs": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "tw": [
         "whois.twnic.net.tw",
-        "No Found"
+        "\\QNo Found\\E"
     ],
     "tw.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "tychy.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "tz": [
         "whois.tznic.or.tz",
-        "% No entries found."
+        "\\Q% No entries found.\\E"
     ],
     "ua": [
-        "whois.net.ua",
-        "No entries found"
+        "whois.ua",
+        "\\Qno entries found\\E"
+    ],
+    "ubs": [
+        "whois.nic.ubs",
+        "\\Qno match\\E"
     ],
     "ug": [
         "whois.co.ug",
-        "% No entries found."
+        "\\Qno entries found\\E"
     ],
     "uk": [
         "whois.nic.uk",
-        "This domain name has not been registered."
+        "\\QNo match\\E"
     ],
     "uk.co": [
         "whois.uk.co",
-        "NO MATCH"
+        "\\QNO MATCH\\E"
     ],
     "uk.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "uk.net": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "university": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "uno": [
-        "whois.uno.nic",
-        "Not found"
+        "whois.nic.uno",
+        "\\Qavailable\\E"
     ],
     "uol": [
         "whois.gtlds.nic.br",
-        "No match for"
+        "\\Qobject does not exist\\E"
+    ],
+    "ups": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "us": [
         "whois.nic.us",
-        "Not found"
+        "\\Qnot found:\\E"
     ],
     "us.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "ustka.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "uy": [
         "whois.nic.org.uy",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "uy.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "uz": [
         "whois.cctld.uz",
-        "not found..."
+        "\\Qnot found\\E"
     ],
     "vacations": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "vana": [
+        "whois.nic.vana",
+        "\\Qno match\\E"
     ],
     "vc": [
-        "whois.adamsnames.tc",
-        "Available"
+        "whois2.afilias-grs.net",
+        "\\Qnot found\\E"
     ],
     "ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "vegas": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "ventures": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
+    ],
+    "verisign": [
+        "whois.nic.verisign",
+        "\\Qno match\\E"
     ],
     "versicherung": [
         "whois.nic.versicherung",
-        "% No match"
+        "\\Qobject does not exist\\E"
     ],
     "vet": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "vet.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "vg": [
-        "whois.adamsnames.tc",
-        "No Object Found"
+        "whois.nic.vg",
+        "\\Qnot found\\E"
     ],
     "viajes": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "video": [
         "whois.rightside.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "vig": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "viking": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "villas": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "vin": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "vip": [
+        "whois-dub.mm-registry.com",
+        "\\Qavailable\\E"
+    ],
+    "virgin": [
+        "whois.nic.virgin",
+        "\\Qavailable\\E"
     ],
     "vision": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "vista": [
+        "whois.nic.vista",
+        "\\QNo Data Found\\E"
+    ],
+    "vistaprint": [
+        "whois.nic.vistaprint",
+        "\\QNo Data Found\\E"
+    ],
+    "viva": [
+        "whois.centralnic.com",
+        "\\Qnot found\\E"
     ],
     "vlaanderen": [
         "whois.nic.vlaanderen",
-        "is still available"
+        "\\Qavailable\\E"
     ],
     "vodka": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "volkswagen": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "vote": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "voting": [
         "whois.voting.tld-box.at",
-        "% No match"
+        "\\Qobject does not exist\\E"
     ],
     "voto": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "voyage": [
         "whois.donuts.co",
-        "Domain not found"
+        "\\QDomain not found.\\E"
     ],
     "vu": [
         "vunic.vu",
-        "is not valid!"
+        "\\Qis not valid!\\E"
+    ],
+    "walbrzych.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "wales": [
         "whois.nic.wales",
-        "This domain name has not been registered."
+        "\\Qavailable\\E"
+    ],
+    "walter": [
+        "whois.nic.walter",
+        "\\Qavailable\\E"
     ],
     "wang": [
         "whois.gtld.knet.cn",
-        "No match"
+        "\\Qobject does not exist\\E"
+    ],
+    "warman": [
+        "whois.nic.warman",
+        "\\Qno match\\E"
+    ],
+    "warmia.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "warszawa.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "watch": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "waw.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "web.id": [
         "whois.pandi.or.id",
@@ -3621,335 +5509,583 @@
     ],
     "web.ve": [
         "whois.nic.ve",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "web.za": [
         "whois.co.za",
-        "No information available"
+        "\\QNo information available\\E"
     ],
     "webcam": [
         "whois.nic.webcam",
-        "No domain exists for the search"
+        "\\Qavailable\\E"
+    ],
+    "weber": [
+        "whois.nic.weber",
+        "\\Qno match\\E"
     ],
     "website": [
         "whois.nic.website",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "wed": [
         "whois.nic.wed",
-        "Domain Status: No Object Found"
+        "\\QDomain Status: No Object Found\\E"
     ],
     "wedding": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
+    ],
+    "wegrow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "wf": [
         "whois.nic.wf",
-        "No entries found"
+        "\\Qno entries found\\E"
     ],
     "whoswho": [
         "whois.nic.whoswho",
-        "Not found:"
+        "\\Qnot found\\E"
+    ],
+    "wielun.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "wien": [
         "whois.nic.wien",
-        "% No match"
+        "\\Qobject does not exist\\E"
     ],
     "wiki": [
         "whois.nic.wiki",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "win": [
+        "whois.nic.win",
+        "\\Qavailable\\E"
+    ],
+    "wine": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
+    ],
+    "wlocl.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "wloclawek.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "wme": [
         "whois.nic.wme",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "wodzislaw.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "wolomin.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "wolterskluwer": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "woodside": [
+        "whois.nic.woodside",
+        "\\Qavailable\\E"
     ],
     "work": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "works": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "world": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "wroclaw.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
     ],
     "ws": [
         "whois.website.ws",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "wtc": [
         "whois.nic.wtc",
-        "No Data Found"
+        "\\QNo Data Found\\E"
     ],
     "wtf": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "www.ro": [
         "whois.rotld.ro",
-        "No entries found"
+        "\\QNo entries found\\E"
+    ],
+    "xerox": [
+        "whois.nic.xerox",
+        "\\Qno match\\E"
+    ],
+    "xihuan": [
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
+    ],
+    "xin": [
+        "whois.nic.xin",
+        "\\Qnot found\\E"
     ],
     "xj.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "xn--11b4c3d": [
+        "whois.nic.xn--11b4c3d",
+        "\\Qno match\\E"
     ],
     "xn--1qqw23a": [
         "whois.ngtld.cn",
-        "No match"
+        "\\Qno match\\E"
+    ],
+    "xn--30rr7y": [
+        "whois.nic.wang",
+        "\\Qobject does not exist\\E"
     ],
     "xn--3bst00m": [
         "whois.gtld.knet.cn",
-        "No match"
+        "\\Qobject does not exist\\E"
     ],
     "xn--3ds443g": [
-        "whois.afilias-srs.net",
-        "NOT FOUND"
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
     ],
     "xn--3e0b707e": [
         "whois.kr",
         "Above domain name is not registered to"
     ],
+    "xn--3pxu8k": [
+        "whois.nic.xn--3pxu8k",
+        "\\Qno match\\E"
+    ],
+    "xn--42c2d9a": [
+        "whois.nic.xn--42c2d9a",
+        "\\Qno match\\E"
+    ],
+    "xn--45brj9c": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
+    ],
     "xn--45q11c": [
         "whois.nic.xn--45q11c",
-        "No match"
+        "\\Qobject does not exist\\E"
     ],
     "xn--4gbrim": [
         "whois.afilias-srs.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "xn--55qw42g": [
         "whois.conac.cn",
-        "Not find MatchingRecord"
+        "\\QNot find MatchingRecord\\E"
     ],
     "xn--55qx5d": [
         "whois.ngtld.cn",
-        "No match"
+        "\\Qno match\\E"
+    ],
+    "xn--5su34j936bgsg": [
+        "whois.nic.xn--5su34j936bgsg",
+        "\\Qno match\\E"
     ],
     "xn--6frz82g": [
         "whois.afilias.net",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "xn--6qq986b3xl": [
         "whois.gtld.knet.cn",
-        "No match"
+        "\\Qobject does not exist\\E"
     ],
     "xn--80adxhks": [
         "whois.nic.xn--80adxhks",
-        "No entries found"
+        "\\Qnot found\\E"
     ],
     "xn--80ao21a": [
         "whois.nic.kz",
-        "Nothing found for this query."
+        "\\Qnothing found\\E"
     ],
     "xn--80asehdb": [
         "whois.online.rs.corenic.net",
-        "% no matching objects found"
+        "\\Qno match\\E"
     ],
     "xn--80aswg": [
         "whois.site.rs.corenic.net",
-        "% no matching objects found"
+        "\\Q% no matching objects found\\E"
+    ],
+    "xn--90ae": [
+        "whois.imena.bg",
+        "\\Qdoes not exist in database\\E"
+    ],
+    "xn--9dbq2a": [
+        "whois.nic.xn--9dbq2a",
+        "\\Qno match\\E"
+    ],
+    "xn--9et52u": [
+        "whois.nic.wang",
+        "\\Qobject does not exist\\E"
+    ],
+    "xn--9krt00a": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--b4w605ferd": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "xn--c1avg": [
         "whois.publicinterestregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "xn--c2br7g": [
+        "whois.nic.xn--c2br7g",
+        "\\Qno match\\E"
     ],
     "xn--clchc0ea0b2g2a9gcd": [
         "whois.sgnic.sg",
-        "Domain Not Found"
+        "\\Qnot found\\E"
     ],
     "xn--czrs0t": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "xn--czru2d": [
         "whois.gtld.knet.cn",
-        "No match"
+        "\\Qobject does not exist\\E"
     ],
     "xn--d1acj3b": [
         "whois.nic.xn--d1acj3b",
-        "No entries found"
+        "\\Qobject does not exist\\E"
     ],
     "xn--d1alf": [
         "whois.marnet.mk",
-        "% No entries found."
+        "\\Q% No entries found.\\E"
+    ],
+    "xn--e1a4c": [
+        "whois.eu",
+        "\\Qavailable\\E"
+    ],
+    "xn--efvy88h": [
+        "whois.nic.xn--efvy88h",
+        "\\Qobject does not exist\\E"
+    ],
+    "xn--estv75g": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--fhbei": [
+        "whois.nic.xn--fhbei",
+        "\\Qno match\\E"
     ],
     "xn--fiq228c5hs": [
-        "whois.afilias-srs.net",
-        "NOT FOUND"
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
     ],
     "xn--fiq64b": [
         "whois.gtld.knet.cn",
-        "No match"
+        "\\Qobject does not exist\\E"
     ],
     "xn--fiqs8s": [
         "cwhois.cnnic.cn",
-        "no matching record"
+        "\\Qno match\\E"
     ],
     "xn--fiqz9s": [
         "cwhois.cnnic.cn",
-        "no matching record"
+        "\\Qno match\\E"
+    ],
+    "xn--fjq720a": [
+        "whois.donuts.co",
+        "\\QDomain not found.\\E"
     ],
     "xn--flw351e": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "xn--fpcrj9c3d": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--fzys8d69uvgm": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--gecrj9c": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--h2brj9c": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
     ],
     "xn--hxt814e": [
         "whois.nic.xn--hxt814e",
-        "No match"
+        "\\Qobject does not exist\\E"
     ],
     "xn--i1b6b1a6a2e": [
         "whois.publicinterestregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "xn--io0a7i": [
         "whois.ngtld.cn",
-        "No match"
+        "\\Qno match\\E"
+    ],
+    "xn--j1aef": [
+        "whois.nic.xn--j1aef",
+        "\\Qno match\\E"
     ],
     "xn--j1amh": [
         "whois.dotukr.com",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "xn--j6w193g": [
         "whois.hkirc.hk",
-        "The domain has not been registered"
+        "\\QThe domain has not been registered\\E"
+    ],
+    "xn--jlq61u9w7b": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--kcrx77d1x4a": [
+        "whois.nic.xn--kcrx77d1x4a",
+        "\\Qavailable\\E"
     ],
     "xn--kput3i": [
-        "whois.afilias-srs.net",
-        "NOT FOUND"
+        "whois.nic.xn--kput3i",
+        "\\Qnot found\\E"
     ],
     "xn--lgbbat1ad8j": [
         "whois.nic.dz",
-        "NO OBJECT FOUND!"
+        "\\QNO OBJECT FOUND!\\E"
     ],
     "xn--mgb9awbf": [
         "whois.registry.om",
-        "No Data Found"
+        "\\Qno data found\\E"
     ],
     "xn--mgba3a4f16a": [
         "whois.nic.ir",
-        "% No entries found."
+        "\\Qno entries found\\E"
+    ],
+    "xn--mgba7c0bbn0a": [
+        "whois.nic.xn--mgba7c0bbn0a",
+        "\\Qavailable\\E"
     ],
     "xn--mgbaam7a8h": [
         "whois.aeda.net.ae",
-        "No Data Found"
+        "\\Qno data found\\E"
+    ],
+    "xn--mgbbh1a71e": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--mgbca7dzdo": [
+        "whois.nic.xn--mgbca7dzdo",
+        "\\Qno match\\E"
     ],
     "xn--mgberp4a5d4ar": [
         "whois.nic.net.sa",
-        "No Match"
+        "\\QNo Match\\E"
+    ],
+    "xn--mgbt3dhd": [
+        "whois.agitsys.net",
+        "\\QNo Object Found\\E"
+    ],
+    "xn--mgbtx2b": [
+        "whois.cmc.iq",
+        "\\Qnot registered\\E"
     ],
     "xn--mgbx4cd0ab": [
         "whois.mynic.my",
         "does not exist in database"
     ],
+    "xn--mix891f": [
+        "whois.monic.mo",
+        "\\Qno match\\E"
+    ],
+    "xn--mk1bu44c": [
+        "whois.nic.xn--mk1bu44c",
+        "\\Qno match\\E"
+    ],
     "xn--mxtq1m": [
         "whois.nic.xn--mxtq1m",
-        "Not Found."
+        "\\Qnot found\\E"
     ],
     "xn--ngbc5azd": [
         "whois.nic.xn--ngbc5azd",
-        "No Data Found"
+        "\\QNo Data Found\\E"
+    ],
+    "xn--ngbe9e0a": [
+        "whois.nic.xn--ngbe9e0a",
+        "\\Qnot found\\E"
     ],
     "xn--nqv7f": [
         "whois.publicinterestregistry.net",
-        "NOT FOUND"
+        "\\Qnot found\\E"
+    ],
+    "xn--nqv7fs00ema": [
+        "whois.publicinterestregistry.net",
+        "\\Qnot found\\E"
     ],
     "xn--o3cw4h": [
         "whois.thnic.co.th",
-        "No match for"
+        "\\Qno match for\\E"
     ],
     "xn--ogbpf8fl": [
         "whois.tld.sy",
-        "Available"
+        "\\QNo Object Found\\E"
     ],
     "xn--p1acf": [
         "whois.nic.xn--p1acf",
-        "Domain Status: No Object Found"
+        "\\QDomain Status: No Object Found\\E"
     ],
     "xn--p1ai": [
-        "whois.ripn.net",
-        "No entries found"
+        "whois.tcinet.ru",
+        "\\Qno entries found\\E"
+    ],
+    "xn--pssy2u": [
+        "whois.nic.xn--pssy2u",
+        "\\Qno match\\E"
     ],
     "xn--q9jyb4c": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "xn--qcka1pmc": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "xn--rhqv96g": [
+        "whois.nic.xn--rhqv96g",
+        "\\Qavailable\\E"
+    ],
+    "xn--s9brj9c": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
+    ],
+    "xn--ses554g": [
+        "whois.registry.knet.cn",
+        "\\Qobject does not exist\\E"
+    ],
+    "xn--t60b56a": [
+        "whois.nic.xn--t60b56a",
+        "\\Qno match\\E"
+    ],
+    "xn--tckwe": [
+        "whois.nic.xn--tckwe",
+        "\\Qno match\\E"
     ],
     "xn--unup4y": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "xn--vermgensberater-ctb": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "xn--vermgensberatung-pwb": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ],
     "xn--vhquv": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
+    ],
+    "xn--vuq861b": [
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
+    ],
+    "xn--w4r85el8fhu5dnra": [
+        "whois.nic.xn--w4r85el8fhu5dnra",
+        "\\Qno match\\E"
+    ],
+    "xn--w4rs40l": [
+        "whois.nic.xn--w4rs40l",
+        "\\Qno match\\E"
+    ],
+    "xn--wgbh1c": [
+        "whois.dotmasr.eg",
+        "\\Qnot registered\\E"
     ],
     "xn--wgbl6a": [
         "whois.registry.qa",
-        "No Data Found"
+        "\\Qno data found\\E"
     ],
     "xn--xhq521b": [
         "whois.ngtld.cn",
-        "No match"
+        "\\Qno match\\E"
+    ],
+    "xn--xkc2dl3a5ee0h": [
+        "whois.inregistry.net",
+        "\\Qnot found\\E"
     ],
     "xn--yfro4i67o": [
         "whois.sgnic.sg",
-        "Domain Not Found"
+        "\\Qnot found\\E"
     ],
     "xn--ygbi2ammx": [
         "whois.pnina.ps",
-        "Available"
+        "\\QNo Object Found\\E"
     ],
     "xn--zfr164b": [
         "whois.conac.cn",
-        "Not find MatchingRecord"
+        "\\QNot find MatchingRecord\\E"
+    ],
+    "xperia": [
+        "whois.nic.xperia",
+        "\\Qno match\\E"
     ],
     "xxx": [
         "whois.nic.xxx",
-        "NOT FOUND"
+        "\\QNOT FOUND\\E"
     ],
     "xyz": [
         "whois.nic.xyz",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "xz.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
+    ],
+    "yachts": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
     ],
     "yn.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "yodobashi": [
         "whois.nic.gmo",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "yoga": [
         "whois-dub.mm-registry.com",
-        "is available for registration"
+        "\\Qavailable\\E"
     ],
     "youtube": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "yt": [
         "whois.nic.yt",
-        "No entries found"
+        "\\Qno entries found\\E"
+    ],
+    "yun": [
+        "whois.teleinfo.cn",
+        "\\Qno match\\E"
     ],
     "za.com": [
         "whois.centralnic.com",
-        "DOMAIN NOT FOUND"
+        "\\Qnot found\\E"
     ],
     "za.net": [
         "http:\/\/www.za.net\/cgi-bin\/whois.cgi?domain=",
@@ -3959,28 +6095,52 @@
         "http:\/\/www.za.net\/cgi-bin\/whois.cgi?domain=",
         "No such domain"
     ],
+    "zachpomor.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "zagan.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "zara": [
+        "whois.afilias-srs.net",
+        "\\Qnot found\\E"
+    ],
+    "zarow.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "zgora.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
+    "zgorzelec.pl": [
+        "whois.dns.pl",
+        "(available for registration|No information available)"
+    ],
     "zip": [
         "domain-registry-whois.l.google.com",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "zj.cn": [
         "whois.cnnic.net.cn",
-        "no matching record"
+        "\\Qno matching record\\E"
     ],
     "zlg.br": [
         "whois.nic.br",
-        "No match for"
+        "\\QNo match for\\E"
     ],
     "zm": [
         "whois.nic.zm",
-        "Domain Status: No Object Found"
+        "\\QDomain Status: No Object Found\\E"
     ],
     "zone": [
         "whois.donuts.co",
-        "Domain not found."
+        "\\QDomain not found.\\E"
     ],
     "zuerich": [
         "whois.ksregistry.net",
-        "not found..."
+        "\\Qobject does not exist\\E"
     ]
 }
