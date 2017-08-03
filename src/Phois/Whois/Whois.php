@@ -77,7 +77,7 @@ class Whois
         // check $domain syntax and split full domain name on subdomain and TLDs
         $matches = array();
         if (!preg_match(
-            '/^[=]?([\p{L}\d\-]+)\.((?:[\p{L}\-]+\.?)+)$/ui',
+            '/^[=]?([\p{L}\d\-]+)\.((?:[\p{L}\d\-]+\.?)+)$/ui',
             $this->domain,
             $matches
         ) && !preg_match(
@@ -148,12 +148,12 @@ class Whois
         }
             // if whois server serve reply over HTTP protocol instead of WHOIS protocol
         if (preg_match('/^https?:\/\//i', $whois_server)) {
-            // curl session to get whois reposnse
+            // curl session to get whois response
             $curlHandle = curl_init();
             $url = $whois_server.$this->domain;
             curl_setopt($curlHandle, CURLOPT_URL, $url);
             curl_setopt($curlHandle, CURLOPT_FOLLOWLOCATION, 0);
-            curl_setopt($curlHandle, CURLOPT_TIMEOUT, 60);
+            curl_setopt($curlHandle, CURLOPT_TIMEOUT, $this->socTimeout);
             curl_setopt($curlHandle, CURLOPT_RETURNTRANSFER, 1);
             curl_setopt($curlHandle, CURLOPT_SSL_VERIFYHOST, 0);
             curl_setopt($curlHandle, CURLOPT_SSL_VERIFYPEER, 0);
